@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "nombre": "toni",
+      "apellidos": "bibiloni",
+      "nick": "toni.bibiloni",
+      "contacto": {
+        "mail": "tb@uib.es",
+        "tel": null
+      },
+      "avatar": "http://uib.es/foto.jpg",
+      "geo": {
+        "address": "Carrer de Francesc Vidal I Sureda, 23",
+        "lat": 39.5727196,
+        "long": 2.6257796,
+        "city": "Palma de Mallorca",
+        "country": "España",
+        "zip": "07015"
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "adrian",
+      "apellidos": "castellanos",
+      "nick": "adrian.castellanos",
+      "contacto": {
+        "mail": "hello.adriancast@gmail.com",
+        "tel": null
+      },
+      "avatar": "https://pbs.twimg.com/profile_images/1196184561962684421/lJssEvhT_400x400.jpg",
+      "geo": {
+        "address": "En su Ford Fiesta, 23",
+        "lat": 39.5727196,
+        "long": 2.6257796,
+        "city": "Palma de Mallorca",
+        "country": "España",
+        "zip": "07015"
+      }
+    },
+    {
+      "id": 3,
+      "nombre": "michelle",
+      "apellidos": "vlad",
+      "nick": "michelle.vlad",
+      "contacto": {
+        "mail": "michellerebeca@hotmail.es",
+        "tel": null
+      },
+      "avatar": "https://pbs.twimg.com/media/D555J1cXoAEQaMR.jpg",
+      "geo": {
+        "address": "Carrer Francesc Sancho, 4",
+        "lat": 39.5796197,
+        "long": 2.6540107,
+        "city": "Palma de Mallorca",
+        "country": "España",
+        "zip": "07004"
+      }
+    },
+    {
+      "id": 4,
+      "nombre": "sara",
+      "apellidos": "palacin",
+      "nick": "sara.palacin",
+      "contacto": {
+        "mail": "sarapalacinjones@gmail.com ",
+        "tel": null
+      },
+      "avatar": "https://snusercontent.global.ssl.fastly.net/member-headshot-square/07/4660907_10131362.jpg",
+      "geo": {
+        "address": "Cardiff University",
+        "lat": 51.4866304,
+        "long": -3.1810528,
+        "city": "Cardiff",
+        "country": "Wales",
+        "zip": null
+      }
+    },
+    {
+      "id": 5,
+      "nombre": "iñaki",
+      "apellidos": "fuentes",
+      "nick": "inaki.fuentes",
+      "contacto": {
+        "mail": "inaki@bluekir.com",
+        "tel": null
+      },
+      "avatar": "https://pbs.twimg.com/profile_images/1193583345873104897/OEDOpjA1_400x400.jpg",
+      "geo": {
+        "address": "Blaise Pascal, ParcBit - Edificio Europa, bajos",
+        "lat": 39.6365425,
+        "long": 2.6293825,
+        "city": "Palma de Mallorca",
+        "country": "España",
+        "zip": "07121"
+      }
+    },
+    {
+      "id": 6,
+      "nombre": "kristan",
+      "apellidos": "clement",
+      "nick": "kristan.clement",
+      "contacto": {
+        "mail": null,
+        "tel": null
+      },
+      "avatar": "https://i.ytimg.com/vi/8d0u-6NAAVs/maxresdefault.jpg",
+      "geo": {
+        "address": "Cardiff University",
+        "lat": 51.4866304,
+        "long": -3.1810528,
+        "city": "Cardiff",
+        "country": "Wales",
+        "zip": null
+      }
+    },
+    {
+      "id": 7,
+      "nombre": "arturo",
+      "apellidos": "vlad",
+      "nick": "arturo.vlad",
+      "contacto": {
+        "mail": "arturov.pop@gmail.com",
+        "tel": null
+      },
+      "avatar": "https://i.ytimg.com/vi/lSg9oHutRbk/maxresdefault.jpg",
+      "geo": {
+        "address": "Carrer Francesc Sancho, 4",
+        "lat": 39.5796197,
+        "long": 2.6540107,
+        "city": "Palma de Mallorca",
+        "country": "España",
+        "zip": "07004"
+      }
+    }
+  ]

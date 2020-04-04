@@ -69,10 +69,10 @@
                   <i class="fa fa-cogs d-lg-none d-xl-none"></i> Categorias
                 </a>
                 <div class="dropdown-menu dropdown-with-icons">
-                  <a href="./results.html" class="dropdown-item">
+                  <a href="./results.php" class="dropdown-item">
                     <i class="tim-icons icon-globe-2"></i> Eventos
                   </a>
-                  <a href="./results.html" class="dropdown-item">
+                  <a href="./results.php" class="dropdown-item">
                     <i class="tim-icons icon-bus-front-12"></i>Automocion
                   </a>
                 </div>
@@ -89,20 +89,17 @@
                     <!--Imagenes del producto-->
                     <div class="col-lg-6 col-md-12 ">
                         <div class="card-image">
-                            <a href="#pablo">
-                              <img class="img rounded" src="./assets/img/mallorca-blockchain_event.jpg">
-                            </a>
-                            <a href="#pablo">
-                                <img class="img rounded" src="./assets/img/map.png">
-                              </a>
-                              <a href="#pablo">
-                                <img class="img rounded" src="./assets/img/weather.png">
-                              </a>
+                              {% for img in selected_event.images %}
+                              <img class="img rounded" src="{{ img }}">
+                              {% endfor %}
+                              <img class="img rounded" src="./assets/img/map.png">
+                              <img class="img rounded" src="./assets/img/weather.png">
+  
                           </div>
                     </div>
                     <!--Descripcion del producto-->
                     <div class="col-lg-6 col-md-12 mx-auto" ALIGN="justify">
-                        <h2 class="title">Mallorca Blockchain Days</h2>
+                        <h2 class="title">{{ selected_event.name }}</h2>
                         <div class="stats stats-right">
                             <div class="stars text-warning">
                                 <i class="far fa-star"></i>
@@ -115,21 +112,21 @@
                         </div>
                         <br>
                         <h5 class="category">Precio Nuevo</h5>
-                        <h5 class="price">140€</h5>
+                        <h5 class="price">{{ selected_event.precio-nuevo }}€</h5>
                         <h5 class="category">Precio Venta</h5>
-                        <h5 class="price">115€</h5>
+                        <h5 class="price">{{ selected_event.precio-venta }}€</h5>
                         <h5 class="category">Precio Subasta</h5>
-                        <h5 class="price">70€</h5>
+                        <h5 class="price">{{ selected_event.precio-subasta }}€</h5>
                         <h5 class="category">Cantidad</h5>
-                        <p class="description">2</p>
+                        <p class="description">{{ selected_event.cantidad }}</p>
                         <h5 class="category">Fecha publicacion oferta</h5>
-                        <p class="description">17-03-2020 17:26</p>
+                        <p class="description">{{ selected_event.data-propios.startDateEvent}} - {{ selected_event.data-propios.startTimeEvent}}</p>
                         <h5 class="category">Fecha fin de oferta</h5>
-                        <p class="description">20-03-2020 07:59</p>
+                        <p class="description">{{ selected_event.data-propios.endDateEvent}} - {{ selected_event.data-propios.endDateEvent}}</p>
                         <h5 class="category">Direccion evento</h5>
-                        <p class="description">Carrer de Francesc Vidal I Sureda, 23, 07015, Palma de Mallorca, España</p>
+                        <p class="description">{{ selected_event.geo1.address }}</p>
                         <h5 class="category">Descripcion</h5>
-                        <p class="description">Del 20 al 22 de marzo podremos gozar de los rayos del sol de Mallorca, disfrutando de los servicios del Hotel Valparaiso de Palma de Mallorca. Destacando que es uno de los hoteles mas lujosos de la zona, resaltando por sus servicios. Sin embargo, los organizadores del Mallorca Blockchain Days estan ofreciendo mas que solo conferencias, tambien fiestas españolas. Dado que el primer dia habra una fiesta en la noche, entre invitados y participantes. El segundo sera un dñia completo de conferencias, talleres y ponencias; siendo el di­a fuerte y de trabajo para nosotros, con expectativas de grandes charlas. Esperamos con ansias las ponencias del Mallorca Blockchain Days porque participara una de las estrellas, Vit Jedlicka. Por si no lo conoces, el es el presidente del pañis mas libre del mundo, Liberland. Ademas, existe una representacion de Latinoamerica, contando con la participacion de Rodolfo Andragnes, representante de Bitcoin Argentina.</p>
+                        <p class="description">{{ selected_event.description }}</p>
                         <br>
                         <div class="row compras">
                             <div class="col-lg-4 col-md-4">
@@ -148,24 +145,23 @@
                 <h2 class="title">Recomendaciones</h2>
               </div>
               <div class="row">
+                {% for event in top_events %}
                 <div class="col-lg-3 col-md-6">
                   <div class="card card-product">
                     <div class="card-image">
-                      <a href="#pablo">
-                        <img class="img rounded" src="./assets/img/vegfest_icon.jpg">
-                      </a>
+                      <img class="img rounded" src="{{ event.images[1] }}">
                     </div>
                     <div class="card-body">
                         <h6 class="category text-warning">Evento</h6>
                       <h4 class="card-title">
-                        <a href="javascript:;" class="card-link text-white">VegFest Mallorca 2020</a>
+                        <a href="javascript:;" class="card-link text-white">{{ event.name }}</a>
                       </h4>
-                      <div class="card-description" ALIGN="justify">
-                        VegFest Mallorca Domingo 24 Mayo (12H-18H) - Sa Possessio ¿Tienes curiosidad por conocer la comida basada en plantas? ¿Te gusta el buen comer? ¿Te preocupa el medio ambiente y la sostenibilidad? Si has respondido si a cualquiera de estas preguntas, ¡VegFest Mallorca es para ti!
+                      <div class="card-description" align="justify" style="overflow: hidden; display: -webkit-box; -webkit-line-clamp: 10; -webkit-box-orient: vertical;">
+                        {{ event.description }}
                       </div>
                       <div class="card-footer">
                         <div class="price-container">
-                          <span class="price">6,10€</span>
+                          <span class="price">{{ event.precio-venta }}€</span>
                         </div>
                         <button class="btn btn-simple btn-warning btn-icon btn-round pull-right" rel="tooltip" title="" data-placement="left" data-original-title="More Info">
                           <i class="tim-icons icon-simple-add"></i>
@@ -174,84 +170,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
-                  <div class="card card-product">
-                    <div class="card-image">
-                      <a href="#pablo">
-                        <img class="img rounded" src="./assets/img/oceansbeachclub_icon.jpg">
-                      </a>
-                    </div>
-                    <div class="card-body">
-                        <h6 class="category text-warning">Evento</h6>
-                      <h4 class="card-title">
-                        <a href="javascript:;" class="card-link text-white">Oceans Beach Club 2020 Opening Weekend</a>
-                      </h4>
-                      <div class="card-description" ALIGN="justify">
-                        Inauguracion de la temporadas en Oceans Beach Club, Calvia. ¿Te vas a perder la fiesta de la temporada? Consigue tu entrada antes 
-                      </div>
-                      <div class="card-footer">
-                        <div class="price-container">
-                          <span class="price">10€</span>
-                        </div>
-                        <button class="btn btn-simple btn-warning btn-icon btn-round pull-right" rel="tooltip" title="" data-placement="left" data-original-title="More Info">
-                            <i class="tim-icons icon-simple-add"></i>
-                          </button>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                  <div class="card card-product">
-                    <div class="card-image">
-                      <a href="#pablo">
-                        <img class="img rounded" src="./assets/img/python.png">
-                      </a>
-                    </div>
-                    <div class="card-body">
-                        <h6 class="category text-warning">Evento</h6>
-                      <h4 class="card-title">
-                        <a href="javascript:;" class="card-link text-white">Ciencia pythonica</a>
-                      </h4>
-                      <div class="card-description" ALIGN="justify">
-                        Os presentamos una nueva edicion del evento pythonico generalista de Mallorca.  Contamos con dos invitados excepcionales para las charlas largas:  Juan Fernandez Gracia, doctor en fisica y trabajando como postdoc en sistemas complejos en el IFISC, y Juan Luis Cano, ingeniero aeronautico con intereses en astrodinamica y software libre.
-                      </div>
-                      <div class="card-footer">
-                        <div class="price-container">
-                          <span class="price">Free</span>
-                        </div>
-                        <button class="btn btn-simple btn-warning btn-icon btn-round pull-right" rel="tooltip" title="" data-placement="left" data-original-title="More Info">
-                            <i class="tim-icons icon-simple-add"></i>
-                          </button>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                  <div class="card card-product">
-                    <div class="card-image">
-                      <a href="#pablo">
-                        <img class="img rounded" src="./assets/img/wt_event.png">
-                      </a>
-                    </div>
-                    <div class="card-body">
-                        <h6 class="category text-warning">Evento</h6>
-                      <h4 class="card-title">
-                        <a href="javascript:;" class="card-link text-white">Women Techmakers/GDG Mallorca</a>
-                      </h4>
-                      <div class="card-description" ALIGN="justify">
-                        El programa de Women Techmakers de Google proporciona visibilidad, comunidad y recursos para mujeres en tecnologñ­a. En todos los meetups que organicemos desde las Women Techmakers, son bienvenidos hombres, mujeres y viceversa.
-                      </div>
-                      <div class="card-footer">
-                        <div class="price-container">
-                          <span class="price">Free</span>
-                        </div>
-                        <button class="btn btn-simple btn-warning btn-icon btn-round pull-right" rel="tooltip" title="" data-placement="left" data-original-title="More Info">
-                            <i class="tim-icons icon-simple-add"></i>
-                          </button>
-                      </div>
-                    </div>
-                  </div>
-                </div>
+                {% endfor %}
               </div>
             </div>
           </div>
@@ -269,7 +188,7 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="./results.html" class="nav-link">
+                                <a href="./results.php" class="nav-link">
                                     Resultados
                                 </a>
                             </li>

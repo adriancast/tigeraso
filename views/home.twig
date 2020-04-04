@@ -71,10 +71,10 @@
               <i class="fa fa-cogs d-lg-none d-xl-none"></i> Categorias
             </a>
             <div class="dropdown-menu dropdown-with-icons">
-              <a href="./results.html" class="dropdown-item">
+              <a href="./results.php" class="dropdown-item">
                 <i class="tim-icons icon-globe-2"></i> Eventos
               </a>
-              <a href="./results.html" class="dropdown-item">
+              <a href="./results.php" class="dropdown-item">
                 <i class="tim-icons icon-bus-front-12"></i>Automocion
               </a>
             </div>
@@ -101,7 +101,7 @@
 
           <div class="col-lg-6 mr-auto" style="margin-top: 15vh;text-align: center;">
             <div class="buttons">
-              <a href="results.html" class="btn btn-success btn-round btn-lg mr-3 pulse">
+              <a href="results.php" class="btn btn-success btn-round btn-lg mr-3 pulse">
                 <p>Ver todos los eventos</p>
               </a>
               
@@ -113,86 +113,38 @@
   </div>
   <!-- End Hero -->
 
-  <div class="section" style="margin-top: 20vh;">
+  <div class="section" style="margin-top: 20vh; z-index: 2;">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="row">
-
+          {% for event in top_events %}
             <div class="col-lg-4 col-md-6 mb-5">
+              
               <div class="card card-profile profile-bg">
                 <div class="card-header">
                   <div class="card-avatar" style="margin-top: -40px;">
                     <a href="javascript:;">
-                      <img class="img img-raised" src="https://i0.wp.com/criptotendencia.com/wp-content/uploads/2020/01/mallorca-blockchain.jpg?resize=1536%2C520&ssl=1">
+                      <img class="img img-raised" src="{{ event.images[1] }}">
                     </a>
                   </div>
                 </div>
                 <div class="card-body">
-                  <h3 class="card-title">Mallorca Blockchain Days</h3>
+                  <h3 class="card-title">{{ event.name }}</h3>
                   <h6 class="category text-primary">Evento</h6>
-                  <p class="card-description">
-                    Del 20 al 22 de marzo podremos gozar de los rayos del sol de Mallorca, disfrutando de los servicios del Hotel ...
-                  </p>
+                  <div class="card-description" align="justify" style="overflow: hidden; display: -webkit-box; -webkit-line-clamp: 10; -webkit-box-orient: vertical;">
+                    {{ event.description }}
+                  </div>
                 </div>
                 <div class="card-footer" style="text-align: center;">
                   <div class="follow" style="margin-bottom: -45px;">
-                    <a class="btn btn-primary btn-lg" href="javascript:;">Más información </a>
+                    <a class="btn btn-primary btn-lg" href="product.php?id={{ event.identificador }}">Más información </a>
                   </div>
                 </div>
               </div>
               <!-- end card -->
             </div>
-
-            <div class="col-lg-4 col-md-6 mb-5">
-              <div class="card card-profile profile-bg">
-                <div class="card-header">
-                  <div class="card-avatar" style="margin-top: -40px;">
-                    <a href="javascript:;">
-                      <img class="img img-raised" src="https://tickx-events.imgix.net/70385e6cc8d7d4dc24755864a39064b1_96.jpg?w=496&h=279&auto=format&q=60&fit=crop&crop=faces%2Cedges%2Centropy&dpr=2">
-                    </a>
-                  </div>
-                </div>
-                <div class="card-body">
-                  <h3 class="card-title">Oceans Beach Club 2020 Opening Weekend</h3>
-                  <h6 class="category text-primary">Evento</h6>
-                  <p class="card-description">
-                    Oceans Beach Club, Calvia
-                  </p>
-                </div>
-                <div class="card-footer" style="text-align: center;">
-                  <div class="follow" style="margin-bottom: -45px;">
-                    <a class="btn btn-primary btn-lg" href="javascript:;">Más información </a>
-                  </div>
-                </div>
-              </div>
-              <!-- end card -->
-            </div>
-            
-            <div class="col-lg-4 col-md-6 mb-5">
-              <div class="card card-profile profile-bg">
-                <div class="card-header">
-                  <div class="card-avatar" style="margin-top: -40px;">
-                    <a href="javascript:;">
-                      <img class="img img-raised" src="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/75446800_496337010959693_7085422073790595072_o.jpg?_nc_cat=105&_nc_sid=b386c4&_nc_ohc=EtCt9wTgroUAX98nxjj&_nc_ht=scontent-mad1-1.xx&oh=555adc137cdced7545965983a711e80f&oe=5E95F073">
-                    </a>
-                  </div>
-                </div>
-                <div class="card-body">
-                  <h3 class="card-title">VegFest Mallorca 2020</h3>
-                  <h6 class="category text-primary">Evento</h6>
-                  <p class="card-description">
-                    VegFest Mallorca Domingo 24 Mayo (12H-18H) - Sa Possessio VHappy.es es la plataforma oficial de Patrocinador y Veggie ...
-                  </p>
-                </div>
-                <div class="card-footer" style="text-align: center;">
-                  <div class="follow" style="margin-bottom: -45px;">
-                    <a class="btn btn-primary btn-lg" href="javascript:;">Más información </a>
-                  </div>
-                </div>
-              </div>
-              <!-- end card -->
-            </div>
+              {% endfor %}
 
           </div>
         </div>
