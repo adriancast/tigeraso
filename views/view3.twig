@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Ciclo For en Twig</title>
+</head>
+<body>
+  <h1>Ciclo For en Twig</h1>
+  
+  <h2>Personas</h2>
+  <ul>
+    {% for person in people %}
+      <li>{{ person }}</li>
+    {% endfor %}
+  </ul>
+
+  <h2>Secuencia de números</h2>
+  <ul>
+    {% for i in 0..10 %}
+      <li>{{ i }}</li>
+    {% endfor %}
+  </ul>
+
+  <h2>Secuencia de letras</h2>
+  <ul>
+    {% for letter in 'a'|upper..'z'|upper %}
+      <li>{{ letter }}</li>
+    {% endfor %}
+  </ul>
+</body>
+</html>
