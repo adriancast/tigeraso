@@ -1,417 +1,419 @@
-[
-  {
-    "name": "Mallorca Blockchain Days",
-    "description": "Del 20 al 22 de marzo podremos gozar de los rayos del sol de Mallorca, disfrutando de los servicios del Hotel Valparaiso de Palma de Mallorca. Destacando que es uno de los hoteles mas lujosos de la zona, resaltando por sus servicios. Sin embargo, los organizadores del Mallorca Blockchain Days estñ¡n ofreciendo mñ¡s que solo conferencias, tambien fiestas españolas. Dado que el primer dñ­a habrñ¡ una fiesta en la noche, entre invitados y participantes. El segundo serñ¡ un dñ­a completo de conferencias, talleres y ponencias; siendo el dñ­a fuerte y de trabajo para nosotros, con expectativas de grandes charlas. Esperamos con ansias las ponencias del Mallorca Blockchain Days porque participarñ¡ una de las estrellas, Vit Jedlicka. Por si no lo conoces, ñ©l es el presidente del pañ­s mñ¡s libre del mundo, Liberland. Ademñ¡s, existe una representacion de Latinoamñ©rica, contando con la participacion de Rodolfo Andragnes, representante de Bitcoin Argentina.",
-    "detalle": "Entradas para el evento",
-    "tipo": "Evento",
-    "identificador": 1,
-    "cantidad": 2,
-    "icones": [
-      "images/mallorca-blockchain_icon.jpg"
-    ],
-    "images": [
-      "images/mallorca-blockchain_event.jpg",
-      "https://i0.wp.com/criptotendencia.com/wp-content/uploads/2020/01/mallorca-blockchain.jpg?resize=1536%2C520&ssl=1"
-    ],
-    "videos": [
-      
-    ],
-    "audios": [
-      
-    ],
-    "puntuacion": 0,
-    "visualizaciones": 0,
-    "likes": 0,
-    "startDate": "2020-03-17",
-    "startTime": "17:26",
-    "endDate": "2020-03-20",
-    "endTime": "07:59",
-    "precio-nuevo": 140,
-    "precio-venta": 115,
-    "precio-subasta": 70,
-    "incremento-subasta": 5,
-    "indicador-precio": 3,
-    "venta": true,
-    "vendido": false,
-    "subasta": true,
-    "subastado": false,
-    "intercambio": true,
-    "cambiado": false,
-    "comment-intercambio": "Intercambio entradas evento Mallorca Blockchain por Arte",
-    "geo1": {
-      "address": "Carrer de Francesc Vidal I Sureda, 23",
-      "lat": 39.5727196,
-      "long": 2.6257796,
-      "city": "Palma de Mallorca",
-      "country": "España",
-      "zip": "07015"
+{
+  "eventos": [
+    {
+      "name": "Mallorca Blockchain Days",
+      "description": "Del 20 al 22 de marzo podremos gozar de los rayos del sol de Mallorca, disfrutando de los servicios del Hotel Valparaiso de Palma de Mallorca. Destacando que es uno de los hoteles mas lujosos de la zona, resaltando por sus servicios. Sin embargo, los organizadores del Mallorca Blockchain Days estñ¡n ofreciendo mñ¡s que solo conferencias, tambien fiestas españolas. Dado que el primer dñ­a habrñ¡ una fiesta en la noche, entre invitados y participantes. El segundo serñ¡ un dñ­a completo de conferencias, talleres y ponencias; siendo el dñ­a fuerte y de trabajo para nosotros, con expectativas de grandes charlas. Esperamos con ansias las ponencias del Mallorca Blockchain Days porque participarñ¡ una de las estrellas, Vit Jedlicka. Por si no lo conoces, ñ©l es el presidente del pañ­s mñ¡s libre del mundo, Liberland. Ademñ¡s, existe una representacion de Latinoamñ©rica, contando con la participacion de Rodolfo Andragnes, representante de Bitcoin Argentina.",
+      "detalle": "Entradas para el evento",
+      "tipo": "Evento",
+      "identificador": 1,
+      "cantidad": 2,
+      "icones": [
+        "images/mallorca-blockchain_icon.jpg"
+      ],
+      "images": [
+        "images/mallorca-blockchain_event.jpg",
+        "https://i0.wp.com/criptotendencia.com/wp-content/uploads/2020/01/mallorca-blockchain.jpg?resize=1536%2C520&ssl=1"
+      ],
+      "videos": [
+        
+      ],
+      "audios": [
+        
+      ],
+      "puntuacion": 0,
+      "visualizaciones": 0,
+      "likes": 0,
+      "startDate": "2020-03-17",
+      "startTime": "17:26",
+      "endDate": "2020-03-20",
+      "endTime": "07:59",
+      "precio-nuevo": 140,
+      "precio-venta": 115,
+      "precio-subasta": 70,
+      "incremento-subasta": 5,
+      "indicador-precio": 3,
+      "venta": true,
+      "vendido": false,
+      "subasta": true,
+      "subastado": false,
+      "intercambio": true,
+      "cambiado": false,
+      "comment-intercambio": "Intercambio entradas evento Mallorca Blockchain por Arte",
+      "geo1": {
+        "address": "Carrer de Francesc Vidal I Sureda, 23",
+        "lat": 39.5727196,
+        "long": 2.6257796,
+        "city": "Palma de Mallorca",
+        "country": "España",
+        "zip": "07015"
+      },
+      "geo2": {
+        "address": null,
+        "lat": null,
+        "long": null,
+        "city": null,
+        "country": null,
+        "zip": null
+      },
+      "tags-propios": [
+        "eventos",
+        "blockchain",
+        "mallorca"
+      ],
+      "data-propios": {
+        "startDateEvent": "2020-03-20",
+        "startTimeEvent": "08:00",
+        "endDateEvent": "2020-03-22",
+        "endTimeEvent": "17:00",
+        "organizer": "Mallorca Blockchain Days"
+      }
     },
-    "geo2": {
-      "address": null,
-      "lat": null,
-      "long": null,
-      "city": null,
-      "country": null,
-      "zip": null
+    {
+      "name": "VegFest Mallorca 2020",
+      "description": "VegFest Mallorca Domingo 24 Mayo (12H-18H) - Sa Possessio VHappy.es es la plataforma oficial de Patrocinador y Veggie Digital del VegFest Mallorca 2020. La ñšNICA plataforma españ±ola para encontrar productos y lugares Veggie y Eco. Â¿Tienes curiosidad por conocer la comida basada en plantas? Â¿Te gusta el buen comer? Â¿Te preocupa el medio ambiente y la sostenibilidad? Si has respondido sñ­ a cualquiera de estas preguntas, Â¡VegFest Mallorca es para ti! Domingo 24 de Mayo de 2020 de 12h a 18h en Sa Possessio (Carrer Gremi Velluters, 14, 07009 Palma). Ven a descubrir el mundo de la alimentacion vegana en este evento anual para disfrutar con toda la familia. Â¡Tambiñ©n estarñ¡ abierta la piscina para un poco de diversion veraniega! Entradas disponibles por antelacion y en el dñ­a en puerta.  Menores de 14 añ±os entran gratis.  Entradas incluyen una bebida gratis. VegFest Mallorca Sunday May 24th (12H-18H) - Sa Possessio  VHappy.es is the official Sponsor and Digital Veggie platform of the VegFest Mallorca 2020. The ONLY Spanish platform to find Veggie and Eco products and places. Are you curious about a plant-based diet?  Do you like good food? Are you concerned about the environment and sustainability? If you answered yes to any of these questions, then VegFest Mallorca is for you!  On Sunday May 24th, 2020 from 12h-18h inside Sa Possessio (Carrer Gremi Velluters, 14, 07009 Palma). Also open this time is the swimming pool for some added summer fun! This is a family friendly, anyone-can-attend, annual event that is all about a whole food plant-based lifestyle. Come check it out for an hour or the entire day!  You can buy tickets online now via the link or pay on the day.  Children under 14 go free. Every ticket includes one free drink (Beer, Wine, Juice or Water).",
+      "detalle": "Entradas para el evento",
+      "tipo": "Evento",
+      "identificador": 2,
+      "cantidad": 6,
+      "icones": [
+        "images/vegfest_icon.jpg"
+      ],
+      "images": [
+        "images/vegfest_event.jpg",
+        "https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/75446800_496337010959693_7085422073790595072_o.jpg?_nc_cat=105&_nc_sid=b386c4&_nc_ohc=EtCt9wTgroUAX98nxjj&_nc_ht=scontent-mad1-1.xx&oh=555adc137cdced7545965983a711e80f&oe=5E95F073"
+      ],
+      "videos": [
+        
+      ],
+      "audios": [
+        
+      ],
+      "puntuacion": 0,
+      "visualizaciones": 0,
+      "likes": 0,
+      "startDate": "2020-03-17",
+      "startTime": "18:01",
+      "endDate": "2020-05-24",
+      "endTime": "11:59",
+      "precio-nuevo": 6.10,
+      "precio-venta": 4.55,
+      "precio-subasta": 3.05,
+      "incremento-subasta": 0.5,
+      "indicador-precio": 0.25,
+      "venta": true,
+      "vendido": false,
+      "subasta": true,
+      "subastado": false,
+      "intercambio": true,
+      "cambiado": false,
+      "comment-intercambio": "Intercambio entradas VegFest por patinete",
+      "geo1": {
+        "address": "Gremi Velluters, 14",
+        "lat": 39.6030038,
+        "long": 2.6569668,
+        "city": "Palma de Mallorca",
+        "country": "España",
+        "zip": "07009"
+      },
+      "geo2": {
+        "address": null,
+        "lat": null,
+        "long": null,
+        "city": null,
+        "country": null,
+        "zip": null
+      },
+      "tags-propios": [
+        "eventos",
+        "comida",
+        "feria gastronomica",
+        "adecuado para niños",
+        "mallorca"
+      ],
+      "data-propios": {
+        "startDateEvent": "2020-05-24",
+        "startTimeEvent": "12:00",
+        "endDateEvent": "2020-05-24",
+        "endTimeEvent": "18:00",
+        "organizer": "Vegan Day Out"
+      }
     },
-    "tags-propios": [
-      "eventos",
-      "blockchain",
-      "mallorca"
-    ],
-    "data-propios": {
-      "startDateEvent": "2020-03-20",
-      "startTimeEvent": "08:00",
-      "endDateEvent": "2020-03-22",
-      "endTimeEvent": "17:00",
-      "organizer": "Mallorca Blockchain Days"
+    {
+      "name": "Oceans Beach Club 2020 Opening Weekend",
+      "description": "Oceans Beach Club, Calvia",
+      "detalle": "Entradas para el evento",
+      "tipo": "Evento",
+      "identificador": 3,
+      "cantidad": 1,
+      "icones": [
+        "images/oceansbeachclub_icon.jpg"
+      ],
+      "images": [
+        "images/oceansbeachclub_event.jpg",
+        "https://tickx-events.imgix.net/70385e6cc8d7d4dc24755864a39064b1_96.jpg?w=496&h=279&auto=format&q=60&fit=crop&crop=faces%2Cedges%2Centropy&dpr=2"
+      ],
+      "videos": [
+        
+      ],
+      "audios": [
+        
+      ],
+      "puntuacion": 0,
+      "visualizaciones": 0,
+      "likes": 0,
+      "startDate": "2020-03-17",
+      "startTime": "18:10",
+      "endDate": "2020-04-11",
+      "endTime": "11:59",
+      "precio-nuevo": 10,
+      "precio-venta": 7.5,
+      "precio-subasta": 5,
+      "incremento-subasta": 1,
+      "indicador-precio": 0.5,
+      "venta": true,
+      "vendido": false,
+      "subasta": true,
+      "subastado": false,
+      "intercambio": true,
+      "cambiado": false,
+      "comment-intercambio": "Intercambio entradas del Opening Weekend de Oceans Beach Club 2020 por Apuntes de GINF",
+      "geo1": {
+        "address": "Carrer General Garcia Ruiz, 1",
+        "lat": 39.509218,
+        "long": 2.5352803,
+        "city": "Calvia",
+        "country": "España",
+        "zip": "07181"
+      },
+      "geo2": {
+        "address": null,
+        "lat": null,
+        "long": null,
+        "city": null,
+        "country": null,
+        "zip": null
+      },
+      "tags-propios": [
+        "eventos",
+        "tardeo",
+        "discoteca",
+        "mallorca"
+      ],
+      "data-propios": {
+        "startDateEvent": "2020-04-11",
+        "startTimeEvent": "12:00",
+        "endDateEvent": "2020-04-11",
+        "endTimeEvent": "20:00",
+        "organizer": "Oceans Beach Club"
+      }
+    },
+    {
+      "name": "Women Techmakers/GDG Mallorca",
+      "description": "El programa de Women Techmakers de Google proporciona visibilidad, comunidad y recursos para mujeres en tecnologñ­a. En todos los meetups que organicemos desde las Women Techmakers, son bienvenidos hombres, mujeres y viceversa :p    Cuando organizemos un evento desde las WTM se tratarñ¡ de que las ponentes sean mujeres, por el simple hecho de dar visibilidad a la mitad de la poblacion en un sector en el que apenas tiene presencia. Nos han llegado muchas dudas en este sentido y queremos dejarlo claro.        Esta comunidad tambiñ©n engloba a los Google Developers Group y cuando se organice un meetup desde el GDG los ponentes serñ¡n hombres/mujeres indistintamente.        En ambos casos, repetimos, serñ¡ bienvenido todo el mundo como asistente.        El GDG (Google Developers Group) Mallorca es un grupo sin ñ¡nimo de lucro, formado por desarrolladores de Mallorca que tienen el objetivo de aprender e intercambiar conocimientos y experiencias acerca de las tecnologñ­as de Google.        La participacion es abierta y gratuita, tanto para novatos, desarrolladores experimentados, lideres de proyectos y organizaciones en general interesadas en utilizar tecnologñ­a Google en sus proyectos como GAE, Android, Angular, GO, Chrome, Google TV, Google+, Google APIs, GWT.",
+      "detalle": "Entradas para el evento",
+      "tipo": "Evento",
+      "identificador": 5,
+      "cantidad": 2,
+      "icones": [
+        "images/wt_icon.jpg"
+      ],
+      "images": [
+        "images/wt_event.jpg",
+        "https://secure.meetupstatic.com/photos/event/e/a/1/600_479883745.jpeg"
+      ],
+      "videos": [
+        
+      ],
+      "audios": [
+        
+      ],
+      "puntuacion": 0,
+      "visualizaciones": 0,
+      "likes": 0,
+      "startDate": "2020-03-17",
+      "startTime": "18:10",
+      "endDate": "2020-08-12",
+      "endTime": "16:59",
+      "precio-nuevo": 0,
+      "precio-venta": null,
+      "precio-subasta": null,
+      "incremento-subasta": null,
+      "indicador-precio": null,
+      "venta": true,
+      "vendido": false,
+      "subasta": false,
+      "subastado": false,
+      "intercambio": true,
+      "cambiado": false,
+      "comment-intercambio": "Intercambio entradas del Opening Weekend de Oceans Beach Club 2020 por Apuntes de GINF",
+      "geo1": {
+        "address": "Auditorium Parc Bit",
+        "lat": 39.579519,
+        "long": 2.6376833,
+        "city": "Palma de Mallorca",
+        "country": "España",
+        "zip": "07011"
+      },
+      "geo2": {
+        "address": null,
+        "lat": null,
+        "long": null,
+        "city": null,
+        "country": null,
+        "zip": null
+      },
+      "tags-propios": [
+        "eventos",
+        "beers",
+        "developers",
+        "mallorca",
+        "google"
+      ],
+      "data-propios": {
+        "startDateEvent": "2020-08-12",
+        "startTimeEvent": "17:00",
+        "endDateEvent": "2020-08-12",
+        "endTimeEvent": "21:00",
+        "organizer": "GDG Mallorca"
+      }
+    },
+    {
+      "name": "Ciencia pythonica",
+      "description": "Os presentamos una nueva edicion del evento pythonico generalista de Mallorca.  Contamos con dos invitados excepcionales para las charlas largas:  Juan Fernandez Gracia, doctor en fñ­sica y trabajando como postdoc en sistemas complejos en el IFISC. Nos hablarñ¡ de un mñ©todo para hallar relaciones de liderazgo en el movimiento a partir de datos de presencia en un lugar concreto y una herramienta que ha creado en python para este proposito. Y nos enseñ±arñ¡ su aplicacion a datos de Manta Rayas alrededor de uno de sus lugares de reunion. Mñ¡s informacion: https://github.com/pymallorca/xerrades/issues/3  Juan Luis Cano, ingeniero aeronñ¡utico con intereses en astrodinñ¡mica y software libre. Archi-conocido por su labor comunitaria a nivel nacional en la asociacion python españ±a y trabajando en satellogic.com. Nos hablarñ¡ sobre Numba, su uso y las estrategias que han utilizado para superar sus limitaciones de rendimiento, asñ­ como algunas caracterñ­sticas avanzadas o uso en GPUs. Mas informacion: https://github.com/pymallorca/xerrades/issues/4  Y para finalizar con las charlas, Antonia Tugores, y si nos es posible otra charla por decidir, cerrando con dos lightning talks.  Mantenemos el formato de la anterior edicion, las dos primeras charlas durarñ¡n media hora cada una y las dos ñºltimas seguirñ¡n el formato lightning talk (charlas cortas de unos 5 minutos).  Para esta segunda quedada hemos elegido celebrarla en el Auditorium del Parc Bit (https://goo.gl/maps/CQFXTUEavbiHmnSq7).",
+      "detalle": "Entradas para el evento",
+      "tipo": "Evento",
+      "identificador": 4,
+      "cantidad": 4,
+      "icones": [
+        
+      ],
+      "images": [
+        
+      ],
+      "videos": [
+        
+      ],
+      "audios": [
+        
+      ],
+      "puntuacion": 0,
+      "visualizaciones": 0,
+      "likes": 0,
+      "startDate": "2020-03-17",
+      "startTime": "17:26",
+      "endDate": "2020-07-20",
+      "endTime": "16:59",
+      "precio-nuevo": 0,
+      "precio-venta": null,
+      "precio-subasta": null,
+      "incremento-subasta": null,
+      "indicador-precio": null,
+      "venta": true,
+      "vendido": false,
+      "subasta": false,
+      "subastado": false,
+      "intercambio": true,
+      "cambiado": false,
+      "comment-intercambio": "Intercambio entradas evento Ciencia pythonica por comics de Deadpool",
+      "geo1": {
+        "address": "Auditorium Parc Bit",
+        "lat": 39.634050,
+        "long": 2.631570,
+        "city": "Palma de Mallorca",
+        "country": "España",
+        "zip": "07120"
+      },
+      "geo2": {
+        "address": null,
+        "lat": null,
+        "long": null,
+        "city": null,
+        "country": null,
+        "zip": null
+      },
+      "tags-propios": [
+        "eventos",
+        "python",
+        "developers",
+        "mallorca"
+      ],
+      "data-propios": {
+        "startDateEvent": "2020-07-20",
+        "startTimeEvent": "17:00",
+        "endDateEvent": "2020-07-20",
+        "endTimeEvent": "20:00",
+        "organizer": "Mallorca Python"
+      }
+    },
+    {
+      "name": "PyData Mallorca",
+      "description": "PyData is an educational program of NumFOCUS, a 501(c)3 non-profit organization in the United States. PyData provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization. PyData communities approach data science using many languages, including (but not limited to) Python, Julia, and R.    PyData is dedicated to providing a harassment-free meeting experience for everyone, regardless of gender, sexual orientation, gender identity and expression, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of meeting participants in any form.        All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks.        Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for PyData.        To discuss any issues or concerns relating to the code of conduct or behavior of anyone at the PyData meetup, please contact the local group organizers (message us on the meetup page or via pydata-mallorca@googlegroups.com). Please also submit a report of any potential Code of Conduct violation directly to NumFOCUS ( https://numfocus.typeform.com/to/ynjGdT ).        You can find more information about PyData Mallorca at: https://www.meetup.com/PyData-Mallorca/about/",
+      "detalle": "Entradas para el evento",
+      "tipo": "Evento",
+      "identificador": 6,
+      "cantidad": 9,
+      "icones": [
+        "images/pydata_icon.jpg"
+      ],
+      "images": [
+        "images/pydata_event.jpg",
+        "https://secure.meetupstatic.com/photos/event/c/8/3/c/600_467751260.jpeg"
+      ],
+      "videos": [
+        
+      ],
+      "audios": [
+        
+      ],
+      "puntuacion": 0,
+      "visualizaciones": 0,
+      "likes": 0,
+      "startDate": "2020-03-17",
+      "startTime": "18:10",
+      "endDate": "2020-08-17",
+      "endTime": "14:59",
+      "precio-nuevo": 0,
+      "precio-venta": null,
+      "precio-subasta": null,
+      "incremento-subasta": null,
+      "indicador-precio": null,
+      "venta": true,
+      "vendido": false,
+      "subasta": false,
+      "subastado": false,
+      "intercambio": true,
+      "cambiado": false,
+      "comment-intercambio": "Intercambio entradas evento PyData Mallorca por cromos Pokemon",
+      "geo1": {
+        "address": "Auditorium Parc Bit",
+        "lat": 39.579519,
+        "long": 2.6376833,
+        "city": "Palma de Mallorca",
+        "country": "España",
+        "zip": "07011"
+      },
+      "geo2": {
+        "address": null,
+        "lat": null,
+        "long": null,
+        "city": null,
+        "country": null,
+        "zip": null
+      },
+      "tags-propios": [
+        "eventos",
+        "pandas",
+        "python",
+        "Michelle learning",
+        "ML"
+      ],
+      "data-propios": {
+        "startDateEvent": "2020-08-17",
+        "startTimeEvent": "15:00",
+        "endDateEvent": "2020-08-17",
+        "endTimeEvent": "21:00",
+        "organizer": "PyData Mallorca"
+      }
     }
-  },
-  {
-    "name": "VegFest Mallorca 2020",
-    "description": "VegFest Mallorca Domingo 24 Mayo (12H-18H) - Sa Possessio VHappy.es es la plataforma oficial de Patrocinador y Veggie Digital del VegFest Mallorca 2020. La ñšNICA plataforma españ±ola para encontrar productos y lugares Veggie y Eco. Â¿Tienes curiosidad por conocer la comida basada en plantas? Â¿Te gusta el buen comer? Â¿Te preocupa el medio ambiente y la sostenibilidad? Si has respondido sñ­ a cualquiera de estas preguntas, Â¡VegFest Mallorca es para ti! Domingo 24 de Mayo de 2020 de 12h a 18h en Sa Possessio (Carrer Gremi Velluters, 14, 07009 Palma). Ven a descubrir el mundo de la alimentacion vegana en este evento anual para disfrutar con toda la familia. Â¡Tambiñ©n estarñ¡ abierta la piscina para un poco de diversion veraniega! Entradas disponibles por antelacion y en el dñ­a en puerta.  Menores de 14 añ±os entran gratis.  Entradas incluyen una bebida gratis. VegFest Mallorca Sunday May 24th (12H-18H) - Sa Possessio  VHappy.es is the official Sponsor and Digital Veggie platform of the VegFest Mallorca 2020. The ONLY Spanish platform to find Veggie and Eco products and places. Are you curious about a plant-based diet?  Do you like good food? Are you concerned about the environment and sustainability? If you answered yes to any of these questions, then VegFest Mallorca is for you!  On Sunday May 24th, 2020 from 12h-18h inside Sa Possessio (Carrer Gremi Velluters, 14, 07009 Palma). Also open this time is the swimming pool for some added summer fun! This is a family friendly, anyone-can-attend, annual event that is all about a whole food plant-based lifestyle. Come check it out for an hour or the entire day!  You can buy tickets online now via the link or pay on the day.  Children under 14 go free. Every ticket includes one free drink (Beer, Wine, Juice or Water).",
-    "detalle": "Entradas para el evento",
-    "tipo": "Evento",
-    "identificador": 2,
-    "cantidad": 6,
-    "icones": [
-      "images/vegfest_icon.jpg"
-    ],
-    "images": [
-      "images/vegfest_event.jpg",
-      "https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/75446800_496337010959693_7085422073790595072_o.jpg?_nc_cat=105&_nc_sid=b386c4&_nc_ohc=EtCt9wTgroUAX98nxjj&_nc_ht=scontent-mad1-1.xx&oh=555adc137cdced7545965983a711e80f&oe=5E95F073"
-    ],
-    "videos": [
-      
-    ],
-    "audios": [
-      
-    ],
-    "puntuacion": 0,
-    "visualizaciones": 0,
-    "likes": 0,
-    "startDate": "2020-03-17",
-    "startTime": "18:01",
-    "endDate": "2020-05-24",
-    "endTime": "11:59",
-    "precio-nuevo": 6.10,
-    "precio-venta": 4.55,
-    "precio-subasta": 3.05,
-    "incremento-subasta": 0.5,
-    "indicador-precio": 0.25,
-    "venta": true,
-    "vendido": false,
-    "subasta": true,
-    "subastado": false,
-    "intercambio": true,
-    "cambiado": false,
-    "comment-intercambio": "Intercambio entradas VegFest por patinete",
-    "geo1": {
-      "address": "Gremi Velluters, 14",
-      "lat": 39.6030038,
-      "long": 2.6569668,
-      "city": "Palma de Mallorca",
-      "country": "España",
-      "zip": "07009"
-    },
-    "geo2": {
-      "address": null,
-      "lat": null,
-      "long": null,
-      "city": null,
-      "country": null,
-      "zip": null
-    },
-    "tags-propios": [
-      "eventos",
-      "comida",
-      "feria gastronomica",
-      "adecuado para niños",
-      "mallorca"
-    ],
-    "data-propios": {
-      "startDateEvent": "2020-05-24",
-      "startTimeEvent": "12:00",
-      "endDateEvent": "2020-05-24",
-      "endTimeEvent": "18:00",
-      "organizer": "Vegan Day Out"
-    }
-  },
-  {
-    "name": "Oceans Beach Club 2020 Opening Weekend",
-    "description": "Oceans Beach Club, Calvia",
-    "detalle": "Entradas para el evento",
-    "tipo": "Evento",
-    "identificador": 3,
-    "cantidad": 1,
-    "icones": [
-      "images/oceansbeachclub_icon.jpg"
-    ],
-    "images": [
-      "images/oceansbeachclub_event.jpg",
-      "https://tickx-events.imgix.net/70385e6cc8d7d4dc24755864a39064b1_96.jpg?w=496&h=279&auto=format&q=60&fit=crop&crop=faces%2Cedges%2Centropy&dpr=2"
-    ],
-    "videos": [
-      
-    ],
-    "audios": [
-      
-    ],
-    "puntuacion": 0,
-    "visualizaciones": 0,
-    "likes": 0,
-    "startDate": "2020-03-17",
-    "startTime": "18:10",
-    "endDate": "2020-04-11",
-    "endTime": "11:59",
-    "precio-nuevo": 10,
-    "precio-venta": 7.5,
-    "precio-subasta": 5,
-    "incremento-subasta": 1,
-    "indicador-precio": 0.5,
-    "venta": true,
-    "vendido": false,
-    "subasta": true,
-    "subastado": false,
-    "intercambio": true,
-    "cambiado": false,
-    "comment-intercambio": "Intercambio entradas del Opening Weekend de Oceans Beach Club 2020 por Apuntes de GINF",
-    "geo1": {
-      "address": "Carrer General Garcia Ruiz, 1",
-      "lat": 39.509218,
-      "long": 2.5352803,
-      "city": "Calvia",
-      "country": "España",
-      "zip": "07181"
-    },
-    "geo2": {
-      "address": null,
-      "lat": null,
-      "long": null,
-      "city": null,
-      "country": null,
-      "zip": null
-    },
-    "tags-propios": [
-      "eventos",
-      "tardeo",
-      "discoteca",
-      "mallorca"
-    ],
-    "data-propios": {
-      "startDateEvent": "2020-04-11",
-      "startTimeEvent": "12:00",
-      "endDateEvent": "2020-04-11",
-      "endTimeEvent": "20:00",
-      "organizer": "Oceans Beach Club"
-    }
-  },
-  {
-    "name": "Women Techmakers/GDG Mallorca",
-    "description": "El programa de Women Techmakers de Google proporciona visibilidad, comunidad y recursos para mujeres en tecnologñ­a. En todos los meetups que organicemos desde las Women Techmakers, son bienvenidos hombres, mujeres y viceversa :p    Cuando organizemos un evento desde las WTM se tratarñ¡ de que las ponentes sean mujeres, por el simple hecho de dar visibilidad a la mitad de la poblacion en un sector en el que apenas tiene presencia. Nos han llegado muchas dudas en este sentido y queremos dejarlo claro.        Esta comunidad tambiñ©n engloba a los Google Developers Group y cuando se organice un meetup desde el GDG los ponentes serñ¡n hombres/mujeres indistintamente.        En ambos casos, repetimos, serñ¡ bienvenido todo el mundo como asistente.        El GDG (Google Developers Group) Mallorca es un grupo sin ñ¡nimo de lucro, formado por desarrolladores de Mallorca que tienen el objetivo de aprender e intercambiar conocimientos y experiencias acerca de las tecnologñ­as de Google.        La participacion es abierta y gratuita, tanto para novatos, desarrolladores experimentados, lideres de proyectos y organizaciones en general interesadas en utilizar tecnologñ­a Google en sus proyectos como GAE, Android, Angular, GO, Chrome, Google TV, Google+, Google APIs, GWT.",
-    "detalle": "Entradas para el evento",
-    "tipo": "Evento",
-    "identificador": 5,
-    "cantidad": 2,
-    "icones": [
-      "images/wt_icon.jpg"
-    ],
-    "images": [
-      "images/wt_event.jpg",
-      "https://secure.meetupstatic.com/photos/event/e/a/1/600_479883745.jpeg"
-    ],
-    "videos": [
-      
-    ],
-    "audios": [
-      
-    ],
-    "puntuacion": 0,
-    "visualizaciones": 0,
-    "likes": 0,
-    "startDate": "2020-03-17",
-    "startTime": "18:10",
-    "endDate": "2020-08-12",
-    "endTime": "16:59",
-    "precio-nuevo": 0,
-    "precio-venta": null,
-    "precio-subasta": null,
-    "incremento-subasta": null,
-    "indicador-precio": null,
-    "venta": true,
-    "vendido": false,
-    "subasta": false,
-    "subastado": false,
-    "intercambio": true,
-    "cambiado": false,
-    "comment-intercambio": "Intercambio entradas del Opening Weekend de Oceans Beach Club 2020 por Apuntes de GINF",
-    "geo1": {
-      "address": "Auditorium Parc Bit",
-      "lat": 39.579519,
-      "long": 2.6376833,
-      "city": "Palma de Mallorca",
-      "country": "España",
-      "zip": "07011"
-    },
-    "geo2": {
-      "address": null,
-      "lat": null,
-      "long": null,
-      "city": null,
-      "country": null,
-      "zip": null
-    },
-    "tags-propios": [
-      "eventos",
-      "beers",
-      "developers",
-      "mallorca",
-      "google"
-    ],
-    "data-propios": {
-      "startDateEvent": "2020-08-12",
-      "startTimeEvent": "17:00",
-      "endDateEvent": "2020-08-12",
-      "endTimeEvent": "21:00",
-      "organizer": "GDG Mallorca"
-    }
-  },
-  {
-    "name": "Ciencia pythonica",
-    "description": "Os presentamos una nueva edicion del evento pythonico generalista de Mallorca.  Contamos con dos invitados excepcionales para las charlas largas:  Juan Fernandez Gracia, doctor en fñ­sica y trabajando como postdoc en sistemas complejos en el IFISC. Nos hablarñ¡ de un mñ©todo para hallar relaciones de liderazgo en el movimiento a partir de datos de presencia en un lugar concreto y una herramienta que ha creado en python para este proposito. Y nos enseñ±arñ¡ su aplicacion a datos de Manta Rayas alrededor de uno de sus lugares de reunion. Mñ¡s informacion: https://github.com/pymallorca/xerrades/issues/3  Juan Luis Cano, ingeniero aeronñ¡utico con intereses en astrodinñ¡mica y software libre. Archi-conocido por su labor comunitaria a nivel nacional en la asociacion python españ±a y trabajando en satellogic.com. Nos hablarñ¡ sobre Numba, su uso y las estrategias que han utilizado para superar sus limitaciones de rendimiento, asñ­ como algunas caracterñ­sticas avanzadas o uso en GPUs. Mas informacion: https://github.com/pymallorca/xerrades/issues/4  Y para finalizar con las charlas, Antonia Tugores, y si nos es posible otra charla por decidir, cerrando con dos lightning talks.  Mantenemos el formato de la anterior edicion, las dos primeras charlas durarñ¡n media hora cada una y las dos ñºltimas seguirñ¡n el formato lightning talk (charlas cortas de unos 5 minutos).  Para esta segunda quedada hemos elegido celebrarla en el Auditorium del Parc Bit (https://goo.gl/maps/CQFXTUEavbiHmnSq7).",
-    "detalle": "Entradas para el evento",
-    "tipo": "Evento",
-    "identificador": 4,
-    "cantidad": 4,
-    "icones": [
-      
-    ],
-    "images": [
-      
-    ],
-    "videos": [
-      
-    ],
-    "audios": [
-      
-    ],
-    "puntuacion": 0,
-    "visualizaciones": 0,
-    "likes": 0,
-    "startDate": "2020-03-17",
-    "startTime": "17:26",
-    "endDate": "2020-07-20",
-    "endTime": "16:59",
-    "precio-nuevo": 0,
-    "precio-venta": null,
-    "precio-subasta": null,
-    "incremento-subasta": null,
-    "indicador-precio": null,
-    "venta": true,
-    "vendido": false,
-    "subasta": false,
-    "subastado": false,
-    "intercambio": true,
-    "cambiado": false,
-    "comment-intercambio": "Intercambio entradas evento Ciencia pythonica por comics de Deadpool",
-    "geo1": {
-      "address": "Auditorium Parc Bit",
-      "lat": 39.634050,
-      "long": 2.631570,
-      "city": "Palma de Mallorca",
-      "country": "España",
-      "zip": "07120"
-    },
-    "geo2": {
-      "address": null,
-      "lat": null,
-      "long": null,
-      "city": null,
-      "country": null,
-      "zip": null
-    },
-    "tags-propios": [
-      "eventos",
-      "python",
-      "developers",
-      "mallorca"
-    ],
-    "data-propios": {
-      "startDateEvent": "2020-07-20",
-      "startTimeEvent": "17:00",
-      "endDateEvent": "2020-07-20",
-      "endTimeEvent": "20:00",
-      "organizer": "Mallorca Python"
-    }
-  },
-  {
-    "name": "PyData Mallorca",
-    "description": "PyData is an educational program of NumFOCUS, a 501(c)3 non-profit organization in the United States. PyData provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization. PyData communities approach data science using many languages, including (but not limited to) Python, Julia, and R.    PyData is dedicated to providing a harassment-free meeting experience for everyone, regardless of gender, sexual orientation, gender identity and expression, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of meeting participants in any form.        All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks.        Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for PyData.        To discuss any issues or concerns relating to the code of conduct or behavior of anyone at the PyData meetup, please contact the local group organizers (message us on the meetup page or via pydata-mallorca@googlegroups.com). Please also submit a report of any potential Code of Conduct violation directly to NumFOCUS ( https://numfocus.typeform.com/to/ynjGdT ).        You can find more information about PyData Mallorca at: https://www.meetup.com/PyData-Mallorca/about/",
-    "detalle": "Entradas para el evento",
-    "tipo": "Evento",
-    "identificador": 6,
-    "cantidad": 9,
-    "icones": [
-      "images/pydata_icon.jpg"
-    ],
-    "images": [
-      "images/pydata_event.jpg",
-      "https://secure.meetupstatic.com/photos/event/c/8/3/c/600_467751260.jpeg"
-    ],
-    "videos": [
-      
-    ],
-    "audios": [
-      
-    ],
-    "puntuacion": 0,
-    "visualizaciones": 0,
-    "likes": 0,
-    "startDate": "2020-03-17",
-    "startTime": "18:10",
-    "endDate": "2020-08-17",
-    "endTime": "14:59",
-    "precio-nuevo": 0,
-    "precio-venta": null,
-    "precio-subasta": null,
-    "incremento-subasta": null,
-    "indicador-precio": null,
-    "venta": true,
-    "vendido": false,
-    "subasta": false,
-    "subastado": false,
-    "intercambio": true,
-    "cambiado": false,
-    "comment-intercambio": "Intercambio entradas evento PyData Mallorca por cromos Pokemon",
-    "geo1": {
-      "address": "Auditorium Parc Bit",
-      "lat": 39.579519,
-      "long": 2.6376833,
-      "city": "Palma de Mallorca",
-      "country": "España",
-      "zip": "07011"
-    },
-    "geo2": {
-      "address": null,
-      "lat": null,
-      "long": null,
-      "city": null,
-      "country": null,
-      "zip": null
-    },
-    "tags-propios": [
-      "eventos",
-      "pandas",
-      "python",
-      "Michelle learning",
-      "ML"
-    ],
-    "data-propios": {
-      "startDateEvent": "2020-08-17",
-      "startTimeEvent": "15:00",
-      "endDateEvent": "2020-08-17",
-      "endTimeEvent": "21:00",
-      "organizer": "PyData Mallorca"
-    }
-  }
-]
+  ]
+}
