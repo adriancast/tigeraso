@@ -8,11 +8,10 @@
       "identificador": 1,
       "cantidad": 2,
       "icones": [
-        "images/mallorca-blockchain_icon.jpg"
+        "./assets/img/mallorca-blockchain_icon.jpg"
       ],
       "images": [
-        "images/mallorca-blockchain_event.jpg",
-        "https://i0.wp.com/criptotendencia.com/wp-content/uploads/2020/01/mallorca-blockchain.jpg?resize=1536%2C520&ssl=1"
+        "./assets/img/mallorca-blockchain_event.jpg"
       ],
       "videos": [
         
@@ -76,11 +75,10 @@
       "identificador": 2,
       "cantidad": 6,
       "icones": [
-        "images/vegfest_icon.jpg"
+        "./assets/img/vegfest_icon.jpg"
       ],
       "images": [
-        "images/vegfest_event.jpg",
-        "https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/75446800_496337010959693_7085422073790595072_o.jpg?_nc_cat=105&_nc_sid=b386c4&_nc_ohc=EtCt9wTgroUAX98nxjj&_nc_ht=scontent-mad1-1.xx&oh=555adc137cdced7545965983a711e80f&oe=5E95F073"
+        "./assets/img/vegfest_event.jpg"
       ],
       "videos": [
         
@@ -146,11 +144,10 @@
       "identificador": 3,
       "cantidad": 1,
       "icones": [
-        "images/oceansbeachclub_icon.jpg"
+        "./assets/img/oceansbeachclub_icon.jpg"
       ],
       "images": [
-        "images/oceansbeachclub_event.jpg",
-        "https://tickx-events.imgix.net/70385e6cc8d7d4dc24755864a39064b1_96.jpg?w=496&h=279&auto=format&q=60&fit=crop&crop=faces%2Cedges%2Centropy&dpr=2"
+        "./assets/img/oceansbeachclub_event.jpg"
       ],
       "videos": [
         
@@ -215,11 +212,10 @@
       "identificador": 5,
       "cantidad": 2,
       "icones": [
-        "images/wt_icon.jpg"
+        "./assets/img/wt_icon.png"
       ],
       "images": [
-        "images/wt_event.jpg",
-        "https://secure.meetupstatic.com/photos/event/e/a/1/600_479883745.jpeg"
+        "./assets/img/wt_event.png"
       ],
       "videos": [
         
@@ -285,10 +281,10 @@
       "identificador": 4,
       "cantidad": 4,
       "icones": [
-        
+        "./assets/img/python.png"
       ],
       "images": [
-        
+        "./assets/img/python.png"
       ],
       "videos": [
         
@@ -353,11 +349,10 @@
       "identificador": 6,
       "cantidad": 9,
       "icones": [
-        "images/pydata_icon.jpg"
+        "./assets/img/pydata_icon.png"
       ],
       "images": [
-        "images/pydata_event.jpg",
-        "https://secure.meetupstatic.com/photos/event/c/8/3/c/600_467751260.jpeg"
+        "./assets/img/pydata_event.png"
       ],
       "videos": [
         
