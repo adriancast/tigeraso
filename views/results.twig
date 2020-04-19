@@ -34,6 +34,10 @@
   <link href="./assets/css/blk-design-system.css?v=1.0.0" rel="stylesheet" />
   <!-- CSS Just for demo purpose, don't include it in your project -->
   <link href="./assets/demo/demo.css" rel="stylesheet" />
+  <script
+  src="https://code.jquery.com/jquery-3.5.0.min.js"
+  integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ="
+  crossorigin="anonymous"></script>
 
 </head>
 
@@ -87,63 +91,40 @@
   <!-- End Navbar -->
     <div style="padding-top: 200px;padding-left: 30px; padding-right: 30px;">
       <div class="row">
-        <div class="col-xl-2 col-lg-12 mb-5 ">
-          <div class="card">
-            <div class="card-header" style="text-align: center;">
-              <h2 class="m-auto">Filtros</h2>
-              <ul class="nav nav-tabs nav-tabs-primary">
+        <div class="col-xl-2 col-lg-12 mb-5">
+              <h4 class="title">Filtra tus eventos</h4>
+              <p class="category">Tipo de venta</p>
+              
+              <div class="form-check">
+                <label class="form-check-label">
+                  <input id="is-sale-checkbox" class="form-check-input checkbox-filter-selector" type="checkbox" checked>
+                  <span class="form-check-sign"></span>
+                  Producto en venta
+                </label>
+              </div>
+              <div class="form-check">
+                <label class="form-check-label">
+                  <input id="is-exchange-checkbox" class="form-check-input checkbox-filter-selector" type="checkbox" checked>
+                  <span class="form-check-sign"></span>
+                  Producto intercambiable
+                </label>
+              </div>
 
-                <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab">
-                    <i class="tim-icons icon-spaceship"></i> Eventos
-                  </a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#link2" role="tablist">
-                    <i class="tim-icons icon-settings-gear-63"></i> Automocion
-                  </a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#link3" role="tablist">
-                    <i class="tim-icons icon-bag-16"></i> Ropa
-                  </a>
-                </li>
-              </ul>
+              <p class="category mt-5">TAGS</p>
+              {% for tag in tags %}
+              <div class="form-check">
+                <label class="form-check-label">
+                  <input class="form-check-input tag-input checkbox-filter-selector checkbox-filter-tags" value="{{ tag }}" type="checkbox" >
+                  <span class="form-check-sign"></span>
+                  {{ tag }}
+                </label>
+              </div>
+              {% endfor %}
             </div>
-            <div class="card-body">
-            </div>
-          </div>
-        </div>
+            
         <div class="col-md-10">
-<div class="row">
-                {% for event in events %}
-                <div class="col-lg-3 col-md-6">
-                <a href="product.php?id={{ event.identificador }}">
-                                  <div class="card card-product">
-                    <div class="card-image">
-                    <img class="img rounded" src="{{ event.images[1] }}">
-                    </div>
-                    <div class="card-body">
-                        <h6 class="category text-warning">Evento</h6>
-                      <h4 class="card-title">
-                        <a href="javascript:;" class="card-link text-white">{{ event.name }}</a>
-                      </h4>
-                      <div class="card-description" align="justify" style="overflow: hidden; display: -webkit-box; -webkit-line-clamp: 10; -webkit-box-orient: vertical;">
-                        {{ event.description }}
-                      </div>
-                      <div class="card-footer">
-                        <div class="price-container">
-                          <span class="price">{{ event.precio-venta }}€</span>
-                        </div>
-                          <button class="btn btn-simple btn-warning btn-icon btn-round pull-right" rel="tooltip" title="" data-placement="left" data-original-title="More Info">
-                              <i class="tim-icons icon-simple-add"></i>
-                            </button>
-                      </div>
-                    </div>
-                  </div>
-                </a>
-                </div>
-                {% endfor %}                
+              <div class="row" id="filtered_events">
+               
               </div>
         </div>
       </div>
@@ -181,6 +162,45 @@
   
 
  </div>
+
+ <!-- Filters made with AJAX -->
+ <script>
+$(document).ready(function(){
+    filter_data();
+    
+    $('.checkbox-filter-selector').click(function(){
+        filter_data();
+    }); 
+
+});
+
+
+    function getSelectedTags(){
+      var tags = [];
+      $(".checkbox-filter-tags").each(function(){
+        if($(this).is(":checked")){
+          tags.push($(this).attr('value'));
+        }
+    });
+    return tags;
+    }
+
+    function filter_data()
+    {
+        $.ajax({
+            url:"results_filters.php",
+            method:"POST",
+            data: JSON.stringify({
+              "isSale": $('#is-sale-checkbox').is(":checked"),
+              "isExchange": $('#is-sale-checkbox').is(":checked"),
+              "selectedTags":  getSelectedTags(),
+            }),
+            success:function(data){
+                $('#filtered_events').html(data);
+            }
+        });
+    }
+</script>
   <!--   Core JS Files   -->
   <script src="./assets/js/core/jquery.min.js" type="text/javascript"></script>
   <script src="./assets/js/core/popper.min.js" type="text/javascript"></script>

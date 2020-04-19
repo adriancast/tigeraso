@@ -1,0 +1,28 @@
+{% for event in filtered_events %}
+<div class="col-lg-3 col-md-6">
+<a href="product.php?id={{ event.identificador }}">
+                  <div class="card card-product">
+    <div class="card-image">
+    <img class="img rounded" src="{{ event.images[1] }}">
+    </div>
+    <div class="card-body">
+        <h6 class="category text-warning">Evento</h6>
+      <h4 class="card-title">
+        <a href="javascript:;" class="card-link text-white">{{ event.name }}</a>
+      </h4>
+      <div class="card-description" align="justify" style="overflow: hidden; display: -webkit-box; -webkit-line-clamp: 10; -webkit-box-orient: vertical;">
+        {{ event.description }}
+      </div>
+      <div class="card-footer">
+        <div class="price-container">
+          <span class="price">{{ event.precio-venta }}€</span>
+        </div>
+          <button class="btn btn-simple btn-warning btn-icon btn-round pull-right" rel="tooltip" title="" data-placement="left" data-original-title="More Info">
+              <i class="tim-icons icon-simple-add"></i>
+            </button>
+      </div>
+    </div>
+  </div>
+</a>
+</div>
+{% endfor %} 
