@@ -2,16 +2,16 @@
   "eventos": [
     {
       "name": "Mallorca Blockchain Days",
-      "description": "Del 20 al 22 de marzo podremos gozar de los rayos del sol de Mallorca, disfrutando de los servicios del Hotel Valparaiso de Palma de Mallorca. Destacando que es uno de los hoteles mas lujosos de la zona, resaltando por sus servicios. Sin embargo, los organizadores del Mallorca Blockchain Days estñ¡n ofreciendo mñ¡s que solo conferencias, tambien fiestas españolas. Dado que el primer dñ­a habrñ¡ una fiesta en la noche, entre invitados y participantes. El segundo serñ¡ un dñ­a completo de conferencias, talleres y ponencias; siendo el dñ­a fuerte y de trabajo para nosotros, con expectativas de grandes charlas. Esperamos con ansias las ponencias del Mallorca Blockchain Days porque participarñ¡ una de las estrellas, Vit Jedlicka. Por si no lo conoces, ñ©l es el presidente del pañ­s mñ¡s libre del mundo, Liberland. Ademñ¡s, existe una representacion de Latinoamñ©rica, contando con la participacion de Rodolfo Andragnes, representante de Bitcoin Argentina.",
+      "description": "Del 20 al 22 de marzo podremos gozar de los rayos del sol de Mallorca, disfrutando de los servicios del Hotel Valparaiso de Palma de Mallorca. Destacando que es uno de los hoteles mas lujosos de la zona, resaltando por sus servicios. Sin embargo, los organizadores del Mallorca Blockchain Days estan ofreciendo mas que solo conferencias, tambien fiestas españolas. Dado que el primer dia habra una fiesta en la noche, entre invitados y participantes. El segundo sera un dia completo de conferencias, talleres y ponencias; siendo el dia fuerte y de trabajo para nosotros, con expectativas de grandes charlas. Esperamos con ansias las ponencias del Mallorca Blockchain Days porque participara una de las estrellas, Vit Jedlicka. Por si no lo conoces, el es el presidente del pais mas libre del mundo, Liberland. Ademas, existe una representacion de Latinoamerica, contando con la participacion de Rodolfo Andragnes, representante de Bitcoin Argentina.",
       "detalle": "Entradas para el evento",
       "tipo": "Evento",
       "identificador": 1,
       "cantidad": 2,
       "icones": [
-        "./assets/img/mallorca-blockchain_icon.jpg"
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/mallorca-blockchain_icon.jpg"
       ],
       "images": [
-        "./assets/img/mallorca-blockchain_event.jpg"
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/mallorca-blockchain_event.jpg"
       ],
       "videos": [
         
@@ -37,7 +37,7 @@
       "subastado": false,
       "intercambio": true,
       "cambiado": false,
-      "comment-intercambio": "Intercambio entradas evento Mallorca Blockchain por Arte",
+      "comment-intercambio": null,
       "geo1": {
         "address": "Carrer de Francesc Vidal I Sureda, 23",
         "lat": 39.5727196,
@@ -69,16 +69,16 @@
     },
     {
       "name": "VegFest Mallorca 2020",
-      "description": "VegFest Mallorca Domingo 24 Mayo (12H-18H) - Sa Possessio VHappy.es es la plataforma oficial de Patrocinador y Veggie Digital del VegFest Mallorca 2020. La ñšNICA plataforma españ±ola para encontrar productos y lugares Veggie y Eco. Â¿Tienes curiosidad por conocer la comida basada en plantas? Â¿Te gusta el buen comer? Â¿Te preocupa el medio ambiente y la sostenibilidad? Si has respondido sñ­ a cualquiera de estas preguntas, Â¡VegFest Mallorca es para ti! Domingo 24 de Mayo de 2020 de 12h a 18h en Sa Possessio (Carrer Gremi Velluters, 14, 07009 Palma). Ven a descubrir el mundo de la alimentacion vegana en este evento anual para disfrutar con toda la familia. Â¡Tambiñ©n estarñ¡ abierta la piscina para un poco de diversion veraniega! Entradas disponibles por antelacion y en el dñ­a en puerta.  Menores de 14 añ±os entran gratis.  Entradas incluyen una bebida gratis. VegFest Mallorca Sunday May 24th (12H-18H) - Sa Possessio  VHappy.es is the official Sponsor and Digital Veggie platform of the VegFest Mallorca 2020. The ONLY Spanish platform to find Veggie and Eco products and places. Are you curious about a plant-based diet?  Do you like good food? Are you concerned about the environment and sustainability? If you answered yes to any of these questions, then VegFest Mallorca is for you!  On Sunday May 24th, 2020 from 12h-18h inside Sa Possessio (Carrer Gremi Velluters, 14, 07009 Palma). Also open this time is the swimming pool for some added summer fun! This is a family friendly, anyone-can-attend, annual event that is all about a whole food plant-based lifestyle. Come check it out for an hour or the entire day!  You can buy tickets online now via the link or pay on the day.  Children under 14 go free. Every ticket includes one free drink (Beer, Wine, Juice or Water).",
+      "description": "VegFest Mallorca Domingo 24 Mayo (12H-18H) - Sa Possessio VHappy.es es la plataforma oficial de Patrocinador y Veggie Digital del VegFest Mallorca 2020. La plataforma española para encontrar productos y lugares Veggie y Eco. ¿Tienes curiosidad por conocer la comida basada en plantas? ¿Te gusta el buen comer? ¿Te preocupa el medio ambiente y la sostenibilidad? Si has respondido si­ a cualquiera de estas preguntas, ¡VegFest Mallorca es para ti! Domingo 24 de Mayo de 2020 de 12h a 18h en Sa Possessio (Carrer Gremi Velluters, 14, 07009 Palma). Ven a descubrir el mundo de la alimentacion vegana en este evento anual para disfrutar con toda la familia. ¡Tambien estara abierta la piscina para un poco de diversion veraniega! Entradas disponibles por antelacion y en el dia en puerta.  Menores de 14 años entran gratis.  Entradas incluyen una bebida gratis.",
       "detalle": "Entradas para el evento",
       "tipo": "Evento",
       "identificador": 2,
       "cantidad": 6,
       "icones": [
-        "./assets/img/vegfest_icon.jpg"
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/vegfest_icon.jpg"
       ],
       "images": [
-        "./assets/img/vegfest_event.jpg"
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/vegfest_event.jpg"
       ],
       "videos": [
         
@@ -89,9 +89,9 @@
       "puntuacion": 0,
       "visualizaciones": 0,
       "likes": 0,
-      "startDate": "2020-03-17",
+      "startDate": "2021-03-17",
       "startTime": "18:01",
-      "endDate": "2020-05-24",
+      "endDate": "2021-05-24",
       "endTime": "11:59",
       "precio-nuevo": 6.10,
       "precio-venta": 4.55,
@@ -104,7 +104,7 @@
       "subastado": false,
       "intercambio": true,
       "cambiado": false,
-      "comment-intercambio": "Intercambio entradas VegFest por patinete",
+      "comment-intercambio": null,
       "geo1": {
         "address": "Gremi Velluters, 14",
         "lat": 39.6030038,
@@ -144,10 +144,10 @@
       "identificador": 3,
       "cantidad": 1,
       "icones": [
-        "./assets/img/oceansbeachclub_icon.jpg"
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/oceansbeachclub_icon.jpg"
       ],
       "images": [
-        "./assets/img/oceansbeachclub_event.jpg"
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/oceansbeachclub_event.jpg"
       ],
       "videos": [
         
@@ -173,7 +173,7 @@
       "subastado": false,
       "intercambio": true,
       "cambiado": false,
-      "comment-intercambio": "Intercambio entradas del Opening Weekend de Oceans Beach Club 2020 por Apuntes de GINF",
+      "comment-intercambio": null,
       "geo1": {
         "address": "Carrer General Garcia Ruiz, 1",
         "lat": 39.509218,
@@ -206,16 +206,16 @@
     },
     {
       "name": "Women Techmakers/GDG Mallorca",
-      "description": "El programa de Women Techmakers de Google proporciona visibilidad, comunidad y recursos para mujeres en tecnologñ­a. En todos los meetups que organicemos desde las Women Techmakers, son bienvenidos hombres, mujeres y viceversa :p    Cuando organizemos un evento desde las WTM se tratarñ¡ de que las ponentes sean mujeres, por el simple hecho de dar visibilidad a la mitad de la poblacion en un sector en el que apenas tiene presencia. Nos han llegado muchas dudas en este sentido y queremos dejarlo claro.        Esta comunidad tambiñ©n engloba a los Google Developers Group y cuando se organice un meetup desde el GDG los ponentes serñ¡n hombres/mujeres indistintamente.        En ambos casos, repetimos, serñ¡ bienvenido todo el mundo como asistente.        El GDG (Google Developers Group) Mallorca es un grupo sin ñ¡nimo de lucro, formado por desarrolladores de Mallorca que tienen el objetivo de aprender e intercambiar conocimientos y experiencias acerca de las tecnologñ­as de Google.        La participacion es abierta y gratuita, tanto para novatos, desarrolladores experimentados, lideres de proyectos y organizaciones en general interesadas en utilizar tecnologñ­a Google en sus proyectos como GAE, Android, Angular, GO, Chrome, Google TV, Google+, Google APIs, GWT.",
+      "description": "El programa de Women Techmakers de Google proporciona visibilidad, comunidad y recursos para mujeres en tecnologia. En todos los meetups que organicemos desde las Women Techmakers, son bienvenidos hombres, mujeres y viceversa :p Cuando organizemos un evento desde las WTM se tratara de que las ponentes sean mujeres, por el simple hecho de dar visibilidad a la mitad de la poblacion en un sector en el que apenas tiene presencia. Nos han llegado muchas dudas en este sentido y queremos dejarlo claro.  Esta comunidad tambien engloba a los Google Developers Group y cuando se organice un meetup desde el GDG los ponentes seran hombres/mujeres indistintamente.   En ambos casos, repetimos, sera bienvenido todo el mundo como asistente.  El GDG (Google Developers Group) Mallorca es un grupo sin animo de lucro, formado por desarrolladores de Mallorca que tienen el objetivo de aprender e intercambiar conocimientos y experiencias acerca de las tecnologñ­as de Google.  La participacion es abierta y gratuita, tanto para novatos, desarrolladores experimentados, lideres de proyectos y organizaciones en general interesadas en utilizar tecnologia Google en sus proyectos como GAE, Android, Angular, GO, Chrome, Google TV, Google+, Google APIs, GWT.",
       "detalle": "Entradas para el evento",
       "tipo": "Evento",
-      "identificador": 5,
+      "identificador": 4,
       "cantidad": 2,
       "icones": [
-        "./assets/img/wt_icon.png"
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/wt_icon.png"
       ],
       "images": [
-        "./assets/img/wt_event.png"
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/wt_event.png"
       ],
       "videos": [
         
@@ -241,7 +241,7 @@
       "subastado": false,
       "intercambio": true,
       "cambiado": false,
-      "comment-intercambio": "Intercambio entradas del Opening Weekend de Oceans Beach Club 2020 por Apuntes de GINF",
+      "comment-intercambio": null,
       "geo1": {
         "address": "Auditorium Parc Bit",
         "lat": 39.579519,
@@ -275,16 +275,16 @@
     },
     {
       "name": "Ciencia pythonica",
-      "description": "Os presentamos una nueva edicion del evento pythonico generalista de Mallorca.  Contamos con dos invitados excepcionales para las charlas largas:  Juan Fernandez Gracia, doctor en fñ­sica y trabajando como postdoc en sistemas complejos en el IFISC. Nos hablarñ¡ de un mñ©todo para hallar relaciones de liderazgo en el movimiento a partir de datos de presencia en un lugar concreto y una herramienta que ha creado en python para este proposito. Y nos enseñ±arñ¡ su aplicacion a datos de Manta Rayas alrededor de uno de sus lugares de reunion. Mñ¡s informacion: https://github.com/pymallorca/xerrades/issues/3  Juan Luis Cano, ingeniero aeronñ¡utico con intereses en astrodinñ¡mica y software libre. Archi-conocido por su labor comunitaria a nivel nacional en la asociacion python españ±a y trabajando en satellogic.com. Nos hablarñ¡ sobre Numba, su uso y las estrategias que han utilizado para superar sus limitaciones de rendimiento, asñ­ como algunas caracterñ­sticas avanzadas o uso en GPUs. Mas informacion: https://github.com/pymallorca/xerrades/issues/4  Y para finalizar con las charlas, Antonia Tugores, y si nos es posible otra charla por decidir, cerrando con dos lightning talks.  Mantenemos el formato de la anterior edicion, las dos primeras charlas durarñ¡n media hora cada una y las dos ñºltimas seguirñ¡n el formato lightning talk (charlas cortas de unos 5 minutos).  Para esta segunda quedada hemos elegido celebrarla en el Auditorium del Parc Bit (https://goo.gl/maps/CQFXTUEavbiHmnSq7).",
+      "description": "Os presentamos una nueva edicion del evento pythonico generalista de Mallorca. Contamos con dos invitados excepcionales para las charlas largas: Juan Fernandez Gracia, doctor en fisica y trabajando como postdoc en sistemas complejos en el IFISC. Nos hablara de un metodo para hallar relaciones de liderazgo en el movimiento a partir de datos de presencia en un lugar concreto y una herramienta que ha creado en python para este proposito. Y nos enseñara su aplicacion a datos de Manta Rayas alrededor de uno de sus lugares de reunion. Mas informacion: https://github.com/pymallorca/xerrades/issues/3  Juan Luis Cano, ingeniero aeronautico con intereses en astrodinamica y software libre. Archi-conocido por su labor comunitaria a nivel nacional en la asociacion python españa y trabajando en satellogic.com. Nos hablara sobre Numba, su uso y las estrategias que han utilizado para superar sus limitaciones de rendimiento, asi­ como algunas caracterasticas avanzadas o uso en GPUs. Mas informacion: https://github.com/pymallorca/xerrades/issues/4  Y para finalizar con las charlas, Antonia Tugores, y si nos es posible otra charla por decidir, cerrando con dos lightning talks.  Mantenemos el formato de la anterior edicion, las dos primeras charlas duraran media hora cada una y las dos ultimas seguiran el formato lightning talk (charlas cortas de unos 5 minutos).  Para esta segunda quedada hemos elegido celebrarla en el Auditorium del Parc Bit (https://goo.gl/maps/CQFXTUEavbiHmnSq7).",
       "detalle": "Entradas para el evento",
       "tipo": "Evento",
-      "identificador": 4,
+      "identificador": 5,
       "cantidad": 4,
       "icones": [
-        "./assets/img/python.png"
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/python.png"
       ],
       "images": [
-        "./assets/img/python.png"
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/python.png"
       ],
       "videos": [
         
@@ -310,7 +310,7 @@
       "subastado": false,
       "intercambio": true,
       "cambiado": false,
-      "comment-intercambio": "Intercambio entradas evento Ciencia pythonica por comics de Deadpool",
+      "comment-intercambio": null,
       "geo1": {
         "address": "Auditorium Parc Bit",
         "lat": 39.634050,
@@ -349,10 +349,10 @@
       "identificador": 6,
       "cantidad": 9,
       "icones": [
-        "./assets/img/pydata_icon.png"
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/pydata_icon.png"
       ],
       "images": [
-        "./assets/img/pydata_event.png"
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/pydata_event.png"
       ],
       "videos": [
         
@@ -378,7 +378,7 @@
       "subastado": false,
       "intercambio": true,
       "cambiado": false,
-      "comment-intercambio": "Intercambio entradas evento PyData Mallorca por cromos Pokemon",
+      "comment-intercambio": null,
       "geo1": {
         "address": "Auditorium Parc Bit",
         "lat": 39.579519,
@@ -408,6 +408,614 @@
         "endDateEvent": "2020-08-17",
         "endTimeEvent": "21:00",
         "organizer": "PyData Mallorca"
+      }
+    }
+    ,
+    {
+      "name": "Women Techmakers/GDG Mallorca",
+      "description": "El programa de Women Techmakers de Google proporciona visibilidad, comunidad y recursos para mujeres en tecnologia. En todos los meetups que organicemos desde las Women Techmakers, son bienvenidos hombres, mujeres y viceversa :p Cuando organizemos un evento desde las WTM se tratara de que las ponentes sean mujeres, por el simple hecho de dar visibilidad a la mitad de la poblacion en un sector en el que apenas tiene presencia. Nos han llegado muchas dudas en este sentido y queremos dejarlo claro.  Esta comunidad tambien engloba a los Google Developers Group y cuando se organice un meetup desde el GDG los ponentes seran hombres/mujeres indistintamente.   En ambos casos, repetimos, sera bienvenido todo el mundo como asistente.  El GDG (Google Developers Group) Mallorca es un grupo sin animo de lucro, formado por desarrolladores de Mallorca que tienen el objetivo de aprender e intercambiar conocimientos y experiencias acerca de las tecnologñ­as de Google.  La participacion es abierta y gratuita, tanto para novatos, desarrolladores experimentados, lideres de proyectos y organizaciones en general interesadas en utilizar tecnologia Google en sus proyectos como GAE, Android, Angular, GO, Chrome, Google TV, Google+, Google APIs, GWT.",
+      "detalle": "Entradas para el evento",
+      "tipo": "Evento",
+      "identificador": 7,
+      "cantidad": 2,
+      "icones": [
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/wt_icon.png"
+      ],
+      "images": [
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/wt_event.png"
+      ],
+      "videos": [
+        
+      ],
+      "audios": [
+        
+      ],
+      "puntuacion": 0,
+      "visualizaciones": 0,
+      "likes": 0,
+      "startDate": "2020-03-17",
+      "startTime": "18:10",
+      "endDate": "2020-08-12",
+      "endTime": "16:59",
+      "precio-nuevo": 0,
+      "precio-venta": null,
+      "precio-subasta": null,
+      "incremento-subasta": null,
+      "indicador-precio": null,
+      "venta": true,
+      "vendido": false,
+      "subasta": false,
+      "subastado": false,
+      "intercambio": true,
+      "cambiado": false,
+      "comment-intercambio": null,
+      "geo1": {
+        "address": "Auditorium Parc Bit",
+        "lat": 39.579519,
+        "long": 2.6376833,
+        "city": "Palma de Mallorca",
+        "country": "España",
+        "zip": "07011"
+      },
+      "geo2": {
+        "address": null,
+        "lat": null,
+        "long": null,
+        "city": null,
+        "country": null,
+        "zip": null
+      },
+      "tags-propios": [
+        "eventos",
+        "beers",
+        "developers",
+        "mallorca",
+        "google"
+      ],
+      "data-propios": {
+        "startDateEvent": "2020-08-12",
+        "startTimeEvent": "17:00",
+        "endDateEvent": "2020-08-12",
+        "endTimeEvent": "21:00",
+        "organizer": "GDG Mallorca"
+      }
+    },
+    {
+      "name": "Formula 1 Gran Premio De España 2020",
+      "description": "Formula One roars into Barcelona each year in the beginning of May attracting many adrenaline-loving fans. The Spanish Grand Prix is one of the most prestigious events of that kind. If you like sport cars, the sounds of roaring engines and squealing brakes, then this spectacular three-day race should not be missed.",
+      "detalle": "Entradas para el evento",
+      "tipo": "Evento",
+      "identificador": 8,
+      "cantidad": 5,
+      "icones": [
+      ],
+      "images": [
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/barcelona_event.jpg"
+      ],
+      "videos": [
+        
+      ],
+      "audios": [
+        
+      ],
+      "puntuacion": 0,
+      "visualizaciones": 0,
+      "likes": 0,
+      "startDate": "2020-04-17",
+      "startTime": "18:33",
+      "endDate": "2020-05-07",
+      "endTime": "23:59",
+      "precio-nuevo": 100,
+      "precio-venta": 75,
+      "precio-subasta": null,
+      "incremento-subasta": null,
+      "indicador-precio": null,
+      "venta": true,
+      "vendido": false,
+      "subasta": false,
+      "subastado": false,
+      "intercambio": false,
+      "cambiado": false,
+      "comment-intercambio": null,
+      "geo1": {
+        "address": "Passeig de Gràcia, 34, 1ª",
+        "lat": 41.390887,
+        "long": 2.164818,
+        "city": "Barcelona",
+        "country": "España",
+        "zip": "08007"
+      },
+      "geo2": {
+        "address": null,
+        "lat": null,
+        "long": null,
+        "city": null,
+        "country": null,
+        "zip": null
+      },
+      "tags-propios": [
+        "eventos",
+        "formula1",
+        "coches"
+      ],
+      "data-propios": {
+        "startDateEvent": "2020-05-08",
+        "startTimeEvent": "00:00",
+        "endDateEvent": "2020-05-10",
+        "endTimeEvent": "23:59",
+        "organizer": "Formula One race"
+      } 
+    }
+    ,
+    {
+      "name": "Coachella 2020",
+      "description": "El Festival de Música y Artes de Coachella Valley (en inglés Coachella Valley Music and Arts Festival, también conocido simplemente como Coachella Festival) es un gran festival de música que se desarrolla durante tres días en la última semana del mes de abril (dos días hasta la edición de 2007) y tiene lugar en Indio, California, Estados Unidos. En él se pueden escuchar distintos géneros musicales como el rock alternativo, pop, hip hop y electrónica entre otros. El festival es conocido (además de su música), por la tradición de vestir con la moda hippie de los años 1970. A él acuden gran cantidad de celebridades de todos los ámbitos, desde estrellas del pop y del cine, hasta los famosos ángeles de Victoria's Secret.",
+      "detalle": "Entradas para el evento",
+      "tipo": "Evento",
+      "identificador": 9,
+      "cantidad": 4,
+      "icones": [
+      ],
+      "images": [
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/coachella_event.jpg"
+      ],
+      "videos": [
+        
+      ],
+      "audios": [
+        
+      ],
+      "puntuacion": 0,
+      "visualizaciones": 0,
+      "likes": 0,
+      "startDate": "2020-04-17",
+      "startTime": "18:50",
+      "endDate": "2020-10-08",
+      "endTime": "20:59",
+      "precio-nuevo": 429,
+      "precio-venta": 399,
+      "precio-subasta": null,
+      "incremento-subasta": null,
+      "indicador-precio": null,
+      "venta": true,
+      "vendido": false,
+      "subasta": false,
+      "subastado": false,
+      "intercambio": false,
+      "cambiado": false,
+      "comment-intercambio": null,
+      "geo1": {
+        "address": "81800 51st Ave,",
+        "lat": 33.6801525,
+        "long": -116.2392048,
+        "city": "Indio, CA",
+        "country": "Estados Unidos",
+        "zip": "92201"
+      },
+      "geo2": {
+        "address": null,
+        "lat": null,
+        "long": null,
+        "city": null,
+        "country": null,
+        "zip": null
+      },
+      "tags-propios": [
+        "eventos",
+        "festival",
+        "musica",
+        "california"
+      ],
+      "data-propios": {
+        "startDateEvent": "2020-10-09",
+        "startTimeEvent": "12:00",
+        "endDateEvent": "2020-10-11",
+        "endTimeEvent": "23:00",
+        "organizer": "AEG Live"
+      }
+    }
+    ,
+    {
+      "name": "Imagine Dragons Evolve Concert",
+      "description": "La banda estadounidense de pop-rock Imagine Dragons iluminara el viernes el Palau Sant Jordi de Barcelona con un concierto de más de dos horas con el que destacaran sus sonidos y el mensaje de amor y paz que transmiten en sus canciones.",
+      "detalle": "Entradas para el evento",
+      "tipo": "Evento",
+      "identificador": 10,
+      "cantidad": 6,
+      "icones": [
+      ],
+      "images": [
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/evolve_event.jpg"
+      ],
+      "videos": [
+        
+      ],
+      "audios": [
+        
+      ],
+      "puntuacion": 0,
+      "visualizaciones": 0,
+      "likes": 0,
+      "startDate": "2020-04-17",
+      "startTime": "10:50",
+      "endDate": "2020-04-06",
+      "endTime": "20:59",
+      "precio-nuevo": 50,
+      "precio-venta": 45,
+      "precio-subasta": null,
+      "incremento-subasta": null,
+      "indicador-precio": null,
+      "venta": true,
+      "vendido": false,
+      "subasta": false,
+      "subastado": false,
+      "intercambio": false,
+      "cambiado": false,
+      "comment-intercambio": null,
+      "geo1": {
+        "address": "Passeig Olimpic, 5-7",
+        "lat": 41.3633757,
+        "long": 2.1504043,
+        "city": "Barcelona",
+        "country": "España",
+        "zip": "08038"
+      },
+      "geo2": {
+        "address": null,
+        "lat": null,
+        "long": null,
+        "city": null,
+        "country": null,
+        "zip": null
+      },
+      "tags-propios": [
+        "eventos",
+        "concierto",
+        "musica",
+        "imagine dragons"
+      ],
+      "data-propios": {
+        "startDateEvent": "2020-04-06",
+        "startTimeEvent": "21:00",
+        "endDateEvent": "2020-04-06",
+        "endTimeEvent": "23:00",
+        "organizer": "Live Nation"
+      }
+    }
+    ,
+    {
+      "name": "FESTIVAL DE LA BOLA DE NIEVE",
+      "description": "Festival Sneeuwbal de Invierno es una fiesta de apres-ski con diversión inspirada en la nieve y se lleva a cabo cada año en el Transwijk Park en Utrecht. Casa y música techno de tarde hasta tarde en la noche. Mientras que la música continúa habrá una gran cantidad de actividades de invierno; diapositiva de nieve, carpa de circo, fiestas y mucho más. También encontrará una gran comida y bebida de invierno para mantener el calor.",
+      "detalle": "Entradas para el evento",
+      "tipo": "Evento",
+      "identificador": 11,
+      "cantidad": 3,
+      "icones": [
+      ],
+      "images": [
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/snowball_event.png"
+      ],
+      "videos": [
+        
+      ],
+      "audios": [
+        
+      ],
+      "puntuacion": 0,
+      "visualizaciones": 0,
+      "likes": 0,
+      "startDate": "2020-05-10",
+      "startTime": "19:13",
+      "endDate": "2021-01-25",
+      "endTime": "12:59",
+      "precio-nuevo": 40.35,
+      "precio-venta": 35.50,
+      "precio-subasta": null,
+      "incremento-subasta": null,
+      "indicador-precio": null,
+      "venta": true,
+      "vendido": false,
+      "subasta": false,
+      "subastado": false,
+      "intercambio": false,
+      "cambiado": false,
+      "comment-intercambio": null,
+      "geo1": {
+        "address": "Vreugdenhillaan 31,",
+        "lat": 52.0696643,
+        "long": 5.1032656,
+        "city": "ZB Utrecht",
+        "country": "Países Bajos",
+        "zip": "3526"
+      },
+      "geo2": {
+        "address": null,
+        "lat": null,
+        "long": null,
+        "city": null,
+        "country": null,
+        "zip": null
+      },
+      "tags-propios": [
+        "eventos",
+        "concierto",
+        "musica",
+        "imagine dragons"
+      ],
+      "data-propios": {
+        "startDateEvent": "2021-01-25",
+        "startTimeEvent": "14:00",
+        "endDateEvent": "2021-01-25",
+        "endTimeEvent": "23:00",
+        "organizer": "Sneeuwbal Festival"
+      }
+    }
+    ,
+    {
+      "name": "WURSTMARKT DE DURKHEIM",
+      "description": "El festival es muy famosa por su parte entretenida que atrae a miles de visitantes cada año. Va desde pequeños puestos de vino tradicionales a grandes salas de vino, basándose en lo que parece más atractivo e intrigante. Para las personas que están en un ambiente íntimo, también está el Weindorf - o el pueblo del vino, con algunos de los mejores productos de vino en Alemania y Europa. El festival realmente se enfoca en los vinos, pero no es todo lo que ofrece Wurstmarkt. Diversión para toda la familia; Encontrarás una combinación de vino, literatura y muchas cosas más interesantes. Mientras esté allí, sin duda ir a visitar a la Michaelskapelle (la capilla), justo por encima del mercado. Hasta que los peregrinos del siglo 15th caminaron hasta la colina en el día de San Miguel, y que se considera que es el origen de la fiesta Wurstmarkt.",
+      "detalle": "Entradas para el evento",
+      "tipo": "Evento",
+      "identificador": 12,
+      "cantidad": 7,
+      "icones": [
+      ],
+      "images": [
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/wine_event.jpg"
+      ],
+      "videos": [
+        
+      ],
+      "audios": [
+        
+      ],
+      "puntuacion": 0,
+      "visualizaciones": 0,
+      "likes": 0,
+      "startDate": "2020-05-10",
+      "startTime": "19:38",
+      "endDate": "2020-09-11",
+      "endTime": "08:59",
+      "precio-nuevo": 45,
+      "precio-venta": 40,
+      "precio-subasta": null,
+      "incremento-subasta": null,
+      "indicador-precio": null,
+      "venta": true,
+      "vendido": false,
+      "subasta": false,
+      "subastado": false,
+      "intercambio": false,
+      "cambiado": false,
+      "comment-intercambio": null,
+      "geo1": {
+        "address": "Sankt-Michaels-Allee 10-22",
+        "lat": 49.4658099,
+        "long": 8.1685509,
+        "city": "Bad Dürkheim",
+        "country": "Alemania",
+        "zip": "67098"
+      },
+      "geo2": {
+        "address": null,
+        "lat": null,
+        "long": null,
+        "city": null,
+        "country": null,
+        "zip": null
+      },
+      "tags-propios": [
+        "eventos",
+        "festival",
+        "vino"
+      ],
+      "data-propios": {
+        "startDateEvent": "2020-09-11",
+        "startTimeEvent": "09:00",
+        "endDateEvent": "2020-00-15",
+        "endTimeEvent": "23:00",
+        "organizer": "Bad Dürkheim"
+      }
+    }
+    ,
+    {
+      "name": "SÓNAR BARCELONA FESTIVAL",
+      "description": "Sonar es un festival internacional de música avanzada y nuevos medios que se celebra anualmente un fin de semana en Barcelona cada verano.",
+      "detalle": "Entradas para el evento",
+      "tipo": "Evento",
+      "identificador": 13,
+      "cantidad": 6,
+      "icones": [
+      ],
+      "images": [
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/sonar_event.png"
+      ],
+      "videos": [
+        
+      ],
+      "audios": [
+        
+      ],
+      "puntuacion": 0,
+      "visualizaciones": 0,
+      "likes": 0,
+      "startDate": "2020-05-10",
+      "startTime": "19:42",
+      "endDate": "2021-06-17",
+      "endTime": "09:59",
+      "precio-nuevo": 80,
+      "precio-venta": 75,
+      "precio-subasta": null,
+      "incremento-subasta": null,
+      "indicador-precio": null,
+      "venta": true,
+      "vendido": false,
+      "subasta": false,
+      "subastado": false,
+      "intercambio": false,
+      "cambiado": false,
+      "comment-intercambio": null,
+      "geo1": {
+        "address": "Avinguda de la Reina Maria Cristina, s/n",
+        "lat": 41.3738867,
+        "long": 2.150208,
+        "city": "Barcelona",
+        "country": "España",
+        "zip": "08004"
+      },
+      "geo2": {
+        "address": null,
+        "lat": null,
+        "long": null,
+        "city": null,
+        "country": null,
+        "zip": null
+      },
+      "tags-propios": [
+        "eventos",
+        "festival",
+        "musica"
+      ],
+      "data-propios": {
+        "startDateEvent": "2021-06-17",
+        "startTimeEvent": "09:00",
+        "endDateEvent": "2021-06-19",
+        "endTimeEvent": "23:00",
+        "organizer": "Advanced Music S.L."
+      }
+    }
+    ,
+    {
+      "name": "ELECTRIC CASTLE",
+      "description": "Un festival eléctrico único de música de varios géneros en el antiguo Castillo de Banffy, cerca de Cluj-Napoca, en Transilvania, Rumania. Es uno de los pocos festivales de 24 horas de Europa, donde puedes disfrutar de una mezcla de música como pop, rock, hip hop y electrónica, con una combinación de artes, tecnología e imágenes innovadoras. Puede estar seguro de estar cautivado día y noche durante el festival, que también incluye artistas callejeros, actos de comedia de pie y producciones elaboradas.",
+      "detalle": "Entradas para el evento",
+      "tipo": "Evento",
+      "identificador": 14,
+      "cantidad": 1,
+      "icones": [
+      ],
+      "images": [
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/electric_event.png"
+      ],
+      "videos": [
+        
+      ],
+      "audios": [
+        
+      ],
+      "puntuacion": 0,
+      "visualizaciones": 0,
+      "likes": 0,
+      "startDate": "2020-05-10",
+      "startTime": "19:51",
+      "endDate": "2020-07-14",
+      "endTime": "23:59",
+      "precio-nuevo": 109.80,
+      "precio-venta": 100,
+      "precio-subasta": null,
+      "incremento-subasta": null,
+      "indicador-precio": null,
+      "venta": true,
+      "vendido": false,
+      "subasta": false,
+      "subastado": false,
+      "intercambio": false,
+      "cambiado": false,
+      "comment-intercambio": null,
+      "geo1": {
+        "address": "Banffy Castle",
+        "lat": 46.8843201,
+        "long": 23.7446522,
+        "city": "Bonțida",
+        "country": "Rumanía",
+        "zip": "407105"
+      },
+      "geo2": {
+        "address": null,
+        "lat": null,
+        "long": null,
+        "city": null,
+        "country": null,
+        "zip": null
+      },
+      "tags-propios": [
+        "eventos",
+        "festival",
+        "musica"
+      ],
+      "data-propios": {
+        "startDateEvent": "2020-07-15",
+        "startTimeEvent": "00:00",
+        "endDateEvent": "2020-07-19",
+        "endTimeEvent": "23:00",
+        "organizer": "SC Festival Management"
+      }
+    }
+    ,
+    {
+      "name": "FESTIVAL DE LA CERVEZA DUCKSTEIN DE HAMBURGO",
+      "description": "Auf der Fleetinsel geboren, trug das Festival lange den Namen Fleetinsel-Festival, bevor es von Jahr zu Jahr wuchs und vor sechs Jahren der Umzug in die HafenCity anstand. Das Duckstein-Festival hat sich am neuen Standort mit einem neuem Unplugged-Konzept längst etabliert und feierte 2017 sein 20-jähriges Jubiläum rund um den Magdeburger Hafen.",
+      "detalle": "Entradas para el evento",
+      "tipo": "Evento",
+      "identificador": 15,
+      "cantidad": 4,
+      "icones": [
+      ],
+      "images": [
+        "https://alumnes-ltim.uib.es/~tm2009/assets/img/duckstein_event.jpg"
+      ],
+      "videos": [
+        
+      ],
+      "audios": [
+        
+      ],
+      "puntuacion": 0,
+      "visualizaciones": 0,
+      "likes": 0,
+      "startDate": "2020-05-10",
+      "startTime": "19:58",
+      "endDate": "2020-07-17",
+      "endTime": "05:59",
+      "precio-nuevo": 35,
+      "precio-venta": 28,
+      "precio-subasta": null,
+      "incremento-subasta": null,
+      "indicador-precio": null,
+      "venta": true,
+      "vendido": false,
+      "subasta": false,
+      "subastado": false,
+      "intercambio": false,
+      "cambiado": false,
+      "comment-intercambio": null,
+      "geo1": {
+        "address": "Dar-es-Salaam-Platz",
+        "lat": 53.5440161,
+        "long": 9.9961809,
+        "city": "Hamburgo",
+        "country": "Alemania",
+        "zip": "20457"
+      },
+      "geo2": {
+        "address": null,
+        "lat": null,
+        "long": null,
+        "city": null,
+        "country": null,
+        "zip": null
+      },
+      "tags-propios": [
+        "eventos",
+        "festival",
+        "cerveza"
+      ],
+      "data-propios": {
+        "startDateEvent": "2020-07-17",
+        "startTimeEvent": "09:00",
+        "endDateEvent": "2020-07-26",
+        "endTimeEvent": "23:00",
+        "organizer": "Hafencity"
       }
     }
   ]
