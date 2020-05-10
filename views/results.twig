@@ -191,8 +191,8 @@ $(document).ready(function(){
             url:"results_filters.php",
             method:"POST",
             data: JSON.stringify({
-              "isSale": $('#is-sale-checkbox').is(":checked"),
-              "isExchange": $('#is-sale-checkbox').is(":checked"),
+              "isSale": $('#is-sale-checkbox').is(":checked") ? 1 : 0,
+              "isExchange": $('#is-exchange-checkbox').is(":checked") ? 1 : 0,
               "selectedTags":  getSelectedTags(),
             }),
             success:function(data){
