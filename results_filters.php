@@ -22,19 +22,31 @@ foreach ($events as $event) {
     $filtered_events_by_tag = $events;
 }
 
-$filtered_events_by_sale_type = [];
+
+
+// Filter tipo de venta
+$filtered_events_by_is_sale = [];
 $is_sale_product = $request['isSale'];
-$is_exhange_product = $request['isExchange'];
 
 foreach ($filtered_events_by_tag as $event) {
 
-    if($event['venta'] == $is_sale_product || $event['intercambio'] == $is_exhange_product){
-        array_push($filtered_events_by_sale_type, $event);
+    if($event['venta'] == $is_sale_product){
+        array_push($filtered_events_by_is_sale, $event);
     }
 
 }
 
-$filtered_events = $filtered_events_by_sale_type;
+
+$filtered_events_by_is_exhange = [];
+$is_exhange_product = $request['isExchange'];
+foreach ($filtered_events_by_is_sale as $event) {
+    if($event['intercambio'] == $is_exhange_product){
+        array_push($filtered_events_by_is_exhange, $event);
+    }
+
+}
+
+$filtered_events = $filtered_events_by_is_exhange;
 
 
 echo $twig->render('results_cards.twig', compact('filtered_events'));
