@@ -20,3 +20,5 @@ shuffle($events);
 $top_events = array_slice($events, 0, 4);
 
 echo $twig->render('product.twig', compact('top_events', 'selected_event'));
+
+

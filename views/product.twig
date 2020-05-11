@@ -112,19 +112,25 @@
                         </div>
                         <br>
                         <h5 class="category">Precio Nuevo</h5>
-                        <h5 class="price">{{ selected_event.precio-nuevo }}€</h5>
+                        {% if selected_event.precio_nuevo == 0 %}
+                            <h5 class="price"> Free </h5>
+                        {% else %}
+                            <h5 class="price">{{ selected_event.precio_nuevo }}€</h5>
+                        {% endif %}
                         <h5 class="category">Precio Venta</h5>
-                        <h5 class="price">{{ selected_event.precio-venta }}€</h5>
-                        <h5 class="category">Precio Subasta</h5>
-                        <h5 class="price">{{ selected_event.precio-subasta }}€</h5>
+                        {% if selected_event.precio_venta == 0 %}
+                            <h5 class="price"> Free </h5>
+                        {% else %}
+                            <h5 class="price">{{ selected_event.precio_venta }}€</h5>
+                        {% endif %}
                         <h5 class="category">Cantidad</h5>
                         <p class="description">{{ selected_event.cantidad }}</p>
                         <h5 class="category">Fecha publicacion oferta</h5>
-                        <p class="description">{{ selected_event.data-propios.startDateEvent}} - {{ selected_event.data-propios.startTimeEvent}}</p>
+                        <p class="description">{{ selected_event.startDate}} -> {{ selected_event.startTime}}</p>
                         <h5 class="category">Fecha fin de oferta</h5>
-                        <p class="description">{{ selected_event.data-propios.endDateEvent}} - {{ selected_event.data-propios.endDateEvent}}</p>
+                        <p class="description">{{ selected_event.endDate}} -> {{ selected_event.endTime}}</p>
                         <h5 class="category">Direccion evento</h5>
-                        <p class="description">{{ selected_event.geo1.address }}</p>
+                        <p class="description">{{ selected_event.geo1.address }} , {{ selected_event.geo1.city }} , {{ selected_event.geo1.country }} </p>
                         <h5 class="category">Descripcion</h5>
                         <p class="description">{{ selected_event.description }}</p>
                         <br>
@@ -139,6 +145,43 @@
                 </div>
             </div>
         </div>
+
+      <div class="related-products">
+            <div class="container">
+              <div class="col-md-8">
+                <h2 class="title">También le puede interesar</h2>
+              </div>
+              <div class="row">
+                {% for auto in top_autos %}
+                <div class="col-lg-3 col-md-6">
+                  <div class="card card-product">
+                    <div class="card-image">
+                      <img class="img rounded" src="{{ auto.images[0] }}">
+                    </div>
+                    <div class="card-body">
+                        <h6 class="category text-warning">Vehiculo</h6>
+                      <h4 class="card-title">
+                        <a href="javascript:;" class="card-link text-white">{{ auto.name }}</a>
+                      </h4>
+                      <div class="card-description" align="justify" style="overflow: hidden; display: -webkit-box; -webkit-line-clamp: 10; -webkit-box-orient: vertical;">
+                        {{ auto.description }}
+                      </div>
+                      <div class="card-footer">
+                        <div class="price-container">
+                          <span class="price">{{ auto.precio_venta }}€</span>
+                        </div>
+                        <button class="btn btn-simple btn-warning btn-icon btn-round pull-right" rel="tooltip" title="" data-placement="left" data-original-title="More Info">
+                          <i class="tim-icons icon-simple-add"></i>
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+
         <div class="related-products">
             <div class="container">
               <div class="col-md-8">
@@ -161,7 +204,7 @@
                       </div>
                       <div class="card-footer">
                         <div class="price-container">
-                          <span class="price">{{ event.precio-venta }}€</span>
+                          <span class="price">{{ event.precio_venta }}€</span>
                         </div>
                         <button class="btn btn-simple btn-warning btn-icon btn-round pull-right" rel="tooltip" title="" data-placement="left" data-original-title="More Info">
                           <i class="tim-icons icon-simple-add"></i>

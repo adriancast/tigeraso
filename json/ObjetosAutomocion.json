@@ -1,0 +1,955 @@
+{
+	"Automoción":[
+{
+         "name":"Ducato IEXO ORA",
+         "description":"Fiat ducato IEXO ORA 585 Modelo IEXO que MANTIENE Km 6.600 km Anno 2008 Efecto 130 CV Desplazamiento 2,3 lIntercambio manual Deriva del rou para ruedas morici 1o registro de tiempo 06.07.2008 El número de propietario 1 Gravedad especifica 2.730 kg peso total 3.500 kg carga útil 771 kg Longitud 599 cmAnchura 230 cm",
+	"detalle":"",
+         "tipo":"Autocaravana",
+         "identificador":"automoviles0",
+         "cantidad":1,
+         "icones":[
+            
+         ],
+         "images":[
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/0/01.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/0/02.jpg",
+	    "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/0/03.jpg"
+         ],
+         "videos":[
+            {
+               "tipus":"youtube",
+               "url":"https://www.youtube.com/watch?v=27FQAVbZvCs"
+            },
+            {
+               "tipus":"mp4",
+               "url":"video.mp4"
+            }
+         ],
+         "audios":[
+            
+         ],
+         "puntuacion":3,
+         "visualizaciones":61,
+         "likes":3,
+         "startDate":"2020-03-20",
+         "startTime":"12:00",
+         "endDate":"2020-03-27",
+         "endTime":"24:00",
+         "precio_nuevo":300000,
+         "precio_venta":3500,
+         "precio_subasta":300000,
+         "incremento_subasta":100,
+         "indicador_precio":2,
+         "venta":true,
+         "vendido":false,
+         "subasta":false,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":"Texto explicando la propuesta de intercambio",
+         "geo1":{
+            "address":"Es Secar de la Real",
+            "lat":41.393774,
+            "long":2.868160,
+            "city":"Barcelona",
+            "country":"España",
+            "zip":"08040"
+         },
+         "tags-propios":[
+            "Autocaravana",
+            "Buen estado"
+         ],
+         "datapropios":
+            {
+               "Categoria":"Autocaravana",
+               "Marca":"Fiat",
+               "Modelo":"Ducat IEXO ORA 585",
+               "CV":130,
+               "AñoMatr":2008,
+               "Kilómetros":6600,
+               "Plazas":4,
+               "Altura":2380,
+               "Longitud":5990,
+               "Anchura":2300,
+               "TipoCombustible":"Gasolina",
+               "Transmisión":"Manual",
+               "Dueño":1
+            }
+         
+      },
+	{
+         "name":"Hymer Exsis-i 2.2",
+         "description":"HYMER EXSIS-I 2.2 TDCi130cv *PVP FINAL 31.990euros, 31990 eur., 107.000kms<br><br>Oportunidad!!<br><br>31.990euros<br><br>Autocaravana integral Hymer Exsis-i 522, año 2007 en perfecto estado de 4 plazas en marcha y noche. <br><br>Chasis alko, control de velocidad, aire acondicionado en cabina, calefacción y agua caliente, placa solar, alarma, cocina con fregadero, Frigo, TV, convertidor de corriente, cerraduras de seguridad, claraboyas, bola de remolque, amplia bodega, portabicis, toldo, etc... <br>Longitud 6m. Homologado para 4 plazas.<br><br>Mejor verla para apreciar su estado.",
+	"detalle":"",
+         "tipo":"Autocaravana",
+         "identificador":"automoviles1",
+         "cantidad":1,
+         "icones":[
+            
+         ],
+         "images":[
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/1/01.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/1/02.jpg",
+	    "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/1/03.jpg",
+	    "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/1/04.jpg",
+	    "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/1/05.jpg"
+         ],
+         "videos":[
+            {
+               "tipus":"youtube",
+               "url":"https://www.youtube.com/watch?v=Jyr6b9Pukm0"
+            },
+            {
+               "tipus":"mp4",
+               "url":"video.mp4"
+            }
+         ],
+         "audios":[
+            
+         ],
+         "puntuacion":4,
+         "visualizaciones":3008,
+         "likes":23,
+         "startDate":"2020-03-20",
+         "startTime":"12:00",
+         "endDate":"2020-03-27",
+         "endTime":"24:00",
+         "precio_nuevo":300000,
+         "precio_venta":31990,
+         "precio_subasta":300000,
+         "incremento_subasta":100,
+         "indicador_precio":2,
+         "venta":true,
+         "vendido":false,
+         "subasta":false,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":"Texto explicando la propuesta de intercambio",
+         "geo1":{
+            "address":"Es Secar de la Real",
+            "lat":41.393774,
+            "long":2.868160,
+            "city":"Barcelona",
+            "country":"España",
+            "zip":"08040"
+         },
+         "tags-propios":[
+            "Autocaravana",
+            "Buen estado"
+         ],
+         "datapropios":
+            {
+               "Categoria":"Autocaravana",
+               "Marca":"HYMER",
+               "Modelo":"Exsis-i 2.2",
+               "CV":130,
+               "AñoMatr":2007,
+               "Kilómetros":107000,
+               "Plazas":4,
+               "Altura":2380,
+               "Longitud":6000,
+               "Anchura":2300,
+               "TipoCombustible":"Gasolina",
+               "Transmisión":"Manual",
+               "Dueño":1
+            }
+         
+      },
+	{
+         "name":"King Quad",
+         "description":"Suzuki King Quad 700. Año 2006. 4x4, Bloqueo de diferencial, Puños y gatillo calefactables, maleta trasera, defensa acero, protecciones inferiores duraluminio,ruedas seminuevas, cubremanetas. Opción de cabrestante warn, soporte y gps garmin.El quad está en perfecto estado y con buen uso. Vendo por no usar. Mejor ver.",
+         "detalle":"",
+         "tipo":"Quad",
+         "identificador":"automoviles2",
+         "cantidad":1,
+         "icones":[
+            
+         ],
+         "images":[
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/2/01.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/2/02.jpg",
+	    "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/2/03.jpg",
+	    "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/2/04.jpg",
+	    "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/2/05.jpg"
+         ],
+         "videos":[
+            {
+               "tipus":"youtube",
+               "url":"https://www.youtube.com/watch?v=VA_zGG1SpAs"
+            },
+            {
+               "tipus":"mp4",
+               "url":"video.mp4"
+            }
+         ],
+         "audios":[
+            
+         ],
+         "puntuacion":3.5,
+         "visualizaciones":85,
+         "likes":5,
+         "startDate":"2020-03-20",
+         "startTime":"12:00",
+         "endDate":"2020-03-27",
+         "endTime":"24:00",
+         "precio_nuevo":300000,
+         "precio_venta":4800,
+         "precio_subasta":300000,
+         "incremento_subasta":100,
+         "indicador_precio":2,
+         "venta":true,
+         "vendido":false,
+         "subasta":false,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":"Texto explicando la propuesta de intercambio",
+         "geo1":{
+            "address":"Es Secar de la Real",
+            "lat":39.6066196,
+            "long":2.6347796,
+            "city":"Palma de Mallorca",
+            "country":"España",
+            "zip":"07010"
+         },
+         "tags-propios":[
+            "Quad",
+            "Buen estado"
+         ],
+         "datapropios":
+            {
+               "Categoria":"Quad",
+               "Marca":"Suzuki",
+               "Modelo":"King Quad",
+               "CV":700,
+               "AñoMatr":2006,
+               "Kilómetros":1600,
+               "Plazas":1,
+               "Altura":1220,
+               "Longitud":2115,
+               "Anchura":1210,
+               "TipoCombustible":"Gasolina",
+               "Transmisión":"Manual",
+               "Dueño":2
+            }
+         
+      },
+
+
+{
+         "name":"xf 105.480",
+         "description":"AIRE CALEFACTOR, INTARDER, LLANTAS ALUMINIO, MOTOR RECIEN HECHO, GARANTIA DE MOTOR..",
+	"detalle":"",
+         "tipo":"Camion",
+         "identificador":"automoviles3",
+         "cantidad":1,
+         "icones":[
+            
+         ],
+         "images":[
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/3/01.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/3/02.jpg",
+	    "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/3/03.jpg",
+	    "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/3/04.jpg"
+         ],
+         "videos":[
+            {
+               "tipus":"youtube",
+               "url":"https://www.youtube.com/watch?v=Td2TXmSfQMg"
+            },
+            {
+               "tipus":"mp4",
+               "url":"video.mp4"
+            }
+         ],
+         "audios":[
+            
+         ],
+         "puntuacion":3,
+         "visualizaciones":85,
+         "likes":5,
+         "startDate":"2020-03-20",
+         "startTime":"12:00",
+         "endDate":"2020-03-27",
+         "endTime":"24:00",
+         "precio_nuevo":300000,
+         "precio_venta":24000,
+         "precio_subasta":300000,
+         "incremento_subasta":100,
+         "indicador_precio":2,
+         "venta":true,
+         "vendido":false,
+         "subasta":false,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":"Texto explicando la propuesta de intercambio",
+         "geo1":{
+            "address":"Es Secar de la Real",
+            "lat":41.393774,
+            "long":2.868160,
+            "city":"Barcelona",
+            "country":"España",
+            "zip":"08040"
+         },
+         "tags-propios":[
+            "Camion",
+            "Buen estado"
+         ],
+         "datapropios":
+            {
+               "Categoria":"Camion",
+               "Marca":"Daf",
+               "Modelo":"Xf 105.480",
+               "CV":480,
+               "AñoMatr":2006,
+               "Kilómetros":916000,
+               "Plazas":4,
+               "Altura":2880,
+               "Longitud":3115,
+               "Anchura":2245,
+               "TipoCombustible":"Gasolina",
+               "Transmisión":"Automático",
+               "Dueño":2
+            }
+         
+      },
+{
+         "name":"Mercedes-benz Vito 114 Cdi Tourer Select Larga",
+         "description":"MERCEDES-BENZ Vito 114 CDI Tourer Select Larga, Blanco, año 2019, 5 km, Alfombrillas de terciopelo,Audio 15,Cambio Automatico 7G-TRONIC PLUS,Tempmatik/climatizador zona pasajeros,Tempomat,Blanco Ártico sólido,Paquete de retrovisores Vito,Paragolpes y molduras pintadas en color carrocería,Pintura sólida,Ayuda para marcha atrás (cámara trasera),Triángulo de avería",
+   "detalle":"",
+         "tipo":"Furgoneta",
+         "identificador":"automoviles4",
+         "cantidad":1,
+         "icones":[
+            
+         ],
+         "images":[
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/4/01.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/4/02.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/4/03.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/4/04.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/4/05.jpg",
+             "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/4/06.jpg"
+         ],
+         "videos":[
+            {
+               "tipus":"youtube",
+               "url":"https://www.youtube.com/watch?v=3j9QHtYvDy0"
+            },
+            {
+               "tipus":"mp4",
+               "url":"video.mp4"
+            }
+         ],
+         "audios":[
+            
+         ],
+         "puntuacion":4,
+         "visualizaciones":157,
+         "likes":3,
+         "startDate":"2020-03-21",
+         "startTime":"12:00",
+         "endDate":"2020-03-28",
+         "endTime":"24:00",
+         "precio_nuevo":37195,
+         "precio_venta":34900,
+         "precio_subasta":30000,
+         "incremento_subasta":200,
+         "indicador_precio":2,
+         "venta":true,
+         "vendido":false,
+         "subasta":true,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":"",
+         "geo1":{
+            "address":"Carr. de Boadilla del Monte",
+            "lat":40.4735,
+            "long": -3.8718,
+            "city":"Madrid",
+            "country":"España",
+            "zip":"28806"
+         },
+         "tags-propios":[
+            "Furgoneta",
+            "Km 0"
+         ],
+         "datapropios":
+            {
+               "Categoria":"Furgoneta",
+               "Marca":"Mercedes-Benz",
+               "Modelo":"Vito 114 Cdi Tourer Select Larga",
+               "CV":130,
+               "AñoMatr":2019,
+               "Kilómetros":5,
+               "Plazas":8,
+               "Altura":1910,
+               "Longitud":5140,
+               "Anchura":2244,
+               "TipoCombustible":"Diesel",
+               "Transmisión":"Automático",
+               "Dueño":0
+            }
+         
+      },
+   {
+         "name":"Nissan Leaf Acenta ",
+         "description":"HYMER EXSIS-I 2.2 TDCi130cv *PVP FINAL 31.990euros, 31990 eur., 107.000kms<br><br>Oportunidad!!<br><br>31.990euros<br><br>Autocaravana integral Hymer Exsis-i 522, año 2007 en perfecto estado de 4 plazas en marcha y noche. <br><br>Chasis alko, control de velocidad, aire acondicionado en cabina, calefacción y agua caliente, placa solar, alarma, cocina con fregadero, Frigo, TV, convertidor de corriente, cerraduras de seguridad, claraboyas, bola de remolque, amplia bodega, portabicis, toldo, etc... <br>Longitud 6m. Homologado para 4 plazas.<br><br>Mejor verla para apreciar su estado.",
+   "detalle":"",
+         "tipo":"Coche",
+         "identificador":"automoviles5",
+         "cantidad":1,
+         "icones":[
+            
+         ],
+         "images":[
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/5/01.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/5/02.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/5/03.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/5/04.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/5/05.jpg"
+         ],
+         "videos":[
+            {
+               "tipus":"youtube",
+               "url":"https://www.youtube.com/watch?v=bnIg-aEHD-Y"
+            },
+            {
+               "tipus":"mp4",
+               "url":"video.mp4"
+            }
+         ],
+         "audios":[
+            
+         ],
+         "puntuacion":3,
+         "visualizaciones":8,
+         "likes":2,
+         "startDate":"2020-03-20",
+         "startTime":"12:00",
+         "endDate":"2020-03-27",
+         "endTime":"24:00",
+         "precio_nuevo":34000,
+         "precio_venta":12500,
+         "precio_subasta":8000,
+         "incremento_subasta":100,
+         "indicador_precio":2,
+         "venta":true,
+         "vendido":false,
+         "subasta":true,
+         "subastado":false,
+         "intercambio":true,
+         "cambiado":false,
+         "comment_intercambio":"Solo se aceptan coches eléctricos",
+         "geo1":{
+            "address":"Es Secar de la Real",
+            "lat":41.393774,
+            "long":2.868160,
+            "city":"Barcelona",
+            "country":"España",
+            "zip":"08040"
+         },
+         "tags-propios":[
+            "Autocaravana",
+            "Buen estado"
+         ],
+         "datapropios":
+            {
+               "Categoria":"Eléctrico",
+               "Marca":"Nissan",
+               "Modelo":"Leaf Acenta",
+               "CV":109,
+               "AñoMatr":2016,
+               "Kilómetros":60446,
+               "Plazas":5,
+               "Altura":1530,
+               "Longitud":4490,
+               "Anchura":1788,
+               "TipoCombustible":"Eléctrico",
+               "Transmisión":"Automático",
+               "Dueño":1
+            }
+         
+      },
+   {
+         "name":"Porsche Cayman 3.4 S 3p.",
+         "description":"PORSCHE Cayman 3.4 S, Negro, año 2006, 150000 km, 21500 eur., Precioso Porsche Cayman S con 295 cv. Negro mate ningún desperfecto. Caja de cambios manual de 6 vel. Sistema de sonido con carplay y cámara , se entrega original. Interior en muy buen estado en color camel. Se entrega con el mantenimiento al día. Ruedas al 80. En perfecto estado , no hay que hacerle nada. Listo para entregar",
+         "detalle":"",
+         "tipo":"Deportivo",
+         "identificador":"automoviles6",
+         "cantidad":1,
+         "icones":[
+            
+         ],
+         "images":[
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/6/01.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/6/02.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/6/03.jpg"
+         ],
+         "videos":[
+            {
+               "tipus":"youtube",
+               "url":"https://www.youtube.com/watch?v=VA_zGG1SpAs"
+            },
+            {
+               "tipus":"mp4",
+               "url":"video.mp4"
+            }
+         ],
+         "audios":[
+            
+         ],
+         "puntuacion":2.5,
+         "visualizaciones":95,
+         "likes":12,
+         "startDate":"2020-03-20",
+         "startTime":"12:00",
+         "endDate":"2020-03-27",
+         "endTime":"24:00",
+         "precio_nuevo":62103,
+         "precio_venta":21500,
+         "precio_subasta":300000,
+         "incremento_subasta":100,
+         "indicador_precio":2,
+         "venta":true,
+         "vendido":false,
+         "subasta":false,
+         "subastado":false,
+         "intercambio":true,
+         "cambiado":false,
+         "comment_intercambio":"Para cambios el precio sería de 25000.",
+         "geo1":{
+            "address":"Calle de Menéndez Pelayo ",
+            "lat":41.652133 ,
+            "long":-4.728562,
+            "city":"Valladolid",
+            "country":"España",
+            "zip":"47001"
+         },
+         "tags-propios":[
+            "Deportivo",
+            "Perfecto estado"
+         ],
+         "datapropios":
+            {
+               "Categoria":"Deportivo",
+               "Marca":"Porche",
+               "Modelo":"Cayman",
+               "CV":295,
+               "AñoMatr":2006,
+               "Kilómetros":150000,
+               "Plazas":2,
+               "Altura":1295,
+               "Longitud":4379,
+               "Anchura":1801,
+               "TipoCombustible":"Gasolina",
+               "Transmisión":"Manual",
+               "Dueño":3
+            }
+         
+      },
+
+
+{
+         "name":"Honda Civic 2.0 Vtec Turbo Type R Gt 5p",
+         "description":"HONDA Civic 2.0 VTEC Turbo Type R GT, FULL EXTRAS, MUCHAS MEJORAS, NACIONAL Tela Color Negro,Pintura perlada blanca Championship White",
+   "detalle":"",
+         "tipo":"Deportivo",
+         "identificador":"automoviles7",
+         "cantidad":1,
+         "icones":[
+            
+         ],
+         "images":[
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/7/01.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/7/02.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/7/03.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/7/04.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/7/05.jpg"
+         ],
+         "videos":[
+            {
+               "tipus":"youtube",
+               "url":"https://www.youtube.com/watch?v=tyZLyzFZGOQ"
+            },
+            {
+               "tipus":"mp4",
+               "url":"video.mp4"
+            }
+         ],
+         "audios":[
+            
+         ],
+         "puntuacion":3.5,
+         "visualizaciones":53,
+         "likes":25,
+         "startDate":"2020-03-20",
+         "startTime":"12:00",
+         "endDate":"2020-03-27",
+         "endTime":"24:00",
+         "precio_nuevo":44000,
+         "precio_venta":33900,
+         "precio_subasta":25000,
+         "incremento-subasta":200,
+         "indicador_precio":2,
+         "venta":true,
+         "vendido":false,
+         "subasta":true,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":"Texto explicando la propuesta de intercambio",
+         "geo1":{
+            "address":"Calle Julián Hernández,3",
+            "lat":40.4165 ,
+            "long":-3.7026,
+            "city":"Madrid",
+            "country":"España",
+            "zip":"28043"
+         },
+         "tags-propios":[
+            "Deportivo",
+            "Buen estado"
+         ],
+         "datapropios":
+            {
+               "Categoria":"Deportivo",
+               "Marca":"Honda",
+               "Modelo":"Civic Type R",
+               "CV":310,
+               "AñoMatr":2016,
+               "Kilómetros":15000,
+               "Plazas":5,
+               "Altura":1434,
+               "Longitud":4557,
+               "Anchura":1877,
+               "TipoCombustible":"Gasolina",
+               "Transmisión":"Manual",
+               "Dueño":4
+            }
+         
+      },
+{
+         "name":"Triumph Sprint st",
+         "description":"Se vende, perfecto estado, toma de corriente, puños calefactados, batería recién puesta, recién cambiado el regulador, ruedas en perfecto estado, muy cuidada, siempre en garaje, no hay que hacerle nada, se vende por cambio de estilo",
+	"detalle":"",
+         "tipo":"Moto",
+         "identificador":"automoviles8",
+         "cantidad":1,
+         "icones":[
+            
+         ],
+         "images":[
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/8/01.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/8/02.jpg",
+	    "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/8/03.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/8/04.jpg"
+         ],
+         "videos":[
+            {
+               "tipus":"youtube",
+               "url":"https://www.youtube.com/watch?v=ne_zcfLI6Qo"
+            },
+            {
+               "tipus":"mp4",
+               "url":"video.mp4"
+            }
+         ],
+         "audios":[
+            
+         ],
+         "puntuacion":2,
+         "visualizaciones":73,
+         "likes":6,
+         "startDate":"2020-04-04",
+         "startTime":"12:00",
+         "endDate":"2020-04-25",
+         "endTime":"24:00",
+         "precio_nuevo":300000,
+         "precio_venta":3100,
+         "precio_subasta":300000,
+         "incremento_subasta":100,
+         "indicador_precio":2,
+         "venta":true,
+         "vendido":false,
+         "subasta":false,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":"Texto explicando la propuesta de intercambio",
+         "geo1":{
+            "address":"Madrid Capital",
+            "lat":40.503559,
+            "long":-3.695752,
+            "city":"Madrid",
+            "country":"España",
+            "zip":"28034"
+         },
+         "tags-propios":[
+            "Moto",
+            "turismo"
+         ],
+         "datapropios":
+            {
+               "Categoria":"Turismo",
+               "Marca":"Triumph",
+               "Modelo":"TRIUMPH SPRINT ST",
+               "CV":125,
+               "AñoMatr":2005,
+               "Kilómetros":75000,
+               "Plazas":1,
+               "Altura":1215,
+               "Longitud":2114,
+               "Anchura":750,
+               "TipoCombustible":"Gasolina",
+               "Transmisión":"Manual",
+               "Dueño":1
+            }
+         
+      },
+	{
+         "name":"NISSAN QASHQAI 1.2 DIGT NCONNECTA -17",
+         "description":"Este modelo es un N- Conecta, automático, motor 1200 de gasolina y 115 cv, automático  y secuencial con muchas extras como : techo panorámico, llantas 18 pulgadas, aire climatizado bizona, pantalla multifunsión con navegador, radio cd   usb, camaras 360º, sensores de luz y lluvia, xenon, retrovisores eléctricos y retractiles, automáticos, luz diurna, cruiser, puesta en marcha sin llave, apertura por aproximación. kit pinchazos.",
+	 "detalle":"",
+         "tipo":"Coche",
+         "identificador":"automoviles9",
+         "cantidad":1,
+         "icones":[
+            
+         ],
+         "images":[
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/9/01.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/9/02.jpg",
+	    "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/9/03.jpg",
+	    "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/9/04.jpg",
+	    "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/9/05.jpg"
+         ],
+         "videos":[
+            {
+               "tipus":"youtube",
+               "url":"https://www.youtube.com/watch?v=olERVe04CEg"
+            },
+            {
+               "tipus":"mp4",
+               "url":"video.mp4"
+            }
+         ],
+         "audios":[
+            
+         ],
+         "puntuacion":4,
+         "visualizaciones":1558,
+         "likes":76,
+         "startDate":"2020-04-06",
+         "startTime":"12:00",
+         "endDate":"2020-04-27",
+         "endTime":"24:00",
+         "precio_nuevo":300000,
+         "precio_venta":15500,
+         "precio_subasta":300000,
+         "incremento_subasta":100,
+         "indicador_precio":2,
+         "venta":true,
+         "vendido":false,
+         "subasta":false,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":"Texto explicando la propuesta de intercambio",
+         "geo1":{
+            "address":"Ingenio",
+            "lat":27.918297,
+            "long":-15.433178,
+            "city":"Las Palmas",
+            "country":"España",
+            "zip":"35250"
+         },
+         "tags-propios":[
+            "Coche",
+            "Familiar"
+         ],
+         "datapropios":
+            {
+               "Categoria":"Familiar",
+               "Marca":"Nissan",
+               "Modelo":"QASHQAI 1.2 DIGT",
+               "CV":115,
+               "AñoMatr":2017,
+               "Kilómetros":17865,
+               "Plazas":5,
+               "Altura":1590,
+               "Longitud":4394,
+               "Anchura":1806,
+               "TipoCombustible":"Gasolina",
+               "Transmisión":"Automatico",
+               "Dueño":1
+            }
+         
+      },
+{
+         "name":"Massey Ferguson 35 X",
+         "description":"Massey Ferguson 35x  vehiculos industriales maquinia agricola. Massey Ferguson 35x con arco Dalen. Ruedas de pulverización incluidas con el tractor. El cabrestante se puede incluir por 500  adicionales, a menos que se venda antes.",
+         "detalle":"",
+         "tipo":"Agricola",
+         "identificador":"automoviles10",
+         "cantidad":1,
+         "icones":[
+            
+         ],
+         "images":[
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/10/01.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/10/02.jpg",
+	    "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/10/03.jpg",
+	    "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/10/04.jpg",
+	    "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/10/05.jpg"
+         ],
+         "videos":[
+            {
+               "tipus":"youtube",
+               "url":"https://www.youtube.com/watch?v=qJWIDOivkpc"
+            },
+            {
+               "tipus":"mp4",
+               "url":"video.mp4"
+            }
+         ],
+         "audios":[
+            
+         ],
+         "puntuacion":2.5,
+         "visualizaciones":432,
+         "likes":62,
+         "startDate":"2020-04-02",
+         "startTime":"12:00",
+         "endDate":"2020-04-29",
+         "endTime":"24:00",
+         "precio_nuevo":300000,
+         "precio_venta":1500,
+         "precio_subasta":300000,
+         "incremento_subasta":100,
+         "indicador_precio":2,
+         "venta":true,
+         "vendido":false,
+         "subasta":false,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":"Texto explicando la propuesta de intercambio",
+         "geo1":{
+            "address":"Lleida",
+            "lat":41.611703,
+            "long":0.620230,
+            "city":"Lleida",
+            "country":"España",
+            "zip":"25002"
+         },
+         "tags-propios":[
+            "Quad",
+            "Buen estado"
+         ],
+         "datapropios":
+            {
+               "Categoria":"Tractor",
+               "Marca":"Massey Ferguson",
+               "Modelo":"35 X",
+               "CV":45,
+               "AñoMatr":1975,
+               "Kilómetros":1600,
+               "Plazas":1,
+               "Altura":1203,
+               "Longitud":2920,
+               "Anchura":1620,
+               "TipoCombustible":"Gasolina",
+               "Transmisión":"Manual",
+               "Dueño":1
+            }
+         
+      },
+
+
+{
+         "name":"Fiat Scudo 1.9td",
+         "description":"FIAT Scudo 1.9TD EL 900KG 4p, Azul, año 1999, 195000 km, 1500 eur, itv recien pasada, discos y pastillas nuevos,neumaticos 90%.",
+	 "detalle":"",
+         "tipo":"Furgoneta",
+         "identificador":"automoviles11",
+         "cantidad":1,
+         "icones":[
+            
+         ],
+         "images":[
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/11/01.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/11/02.jpg",
+	    "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/11/03.jpg",
+	    "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/11/04.jpg",
+	    "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/11/05.jpg",
+            "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/11/06.jpg",
+	    "https://alumnes-ltim.uib.es/~tm2010/json/imagenes/11/07.jpg"
+         ],
+         "videos":[
+            {
+               "tipus":"youtube",
+               "url":"https://www.youtube.com/watch?v=0omM_CLucz4"
+            },
+            {
+               "tipus":"mp4",
+               "url":"video.mp4"
+            }
+         ],
+         "audios":[
+            
+         ],
+         "puntuacion":1,
+         "visualizaciones":34,
+         "likes":1,
+         "startDate":"2020-04-02",
+         "startTime":"12:00",
+         "endDate":"2020-04-26",
+         "endTime":"24:00",
+         "precio_nuevo":300000,
+         "precio_venta":1500,
+         "precio_subasta":300000,
+         "incremento_subasta":100,
+         "indicador_precio":2,
+         "venta":true,
+         "vendido":false,
+         "subasta":false,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":"Texto explicando la propuesta de intercambio",
+         "geo1":{
+            "address":"Toledo",
+            "lat":39.863712,
+            "long":-4.027728,
+            "city":"Toledo",
+            "country":"España",
+            "zip":"45004"
+         },
+         "tags-propios":[
+            "Coche",
+            "furgoneta"
+         ],
+         "datapropios":
+            {
+               "Categoria":"Furgoneta",
+               "Marca":"Fiat",
+               "Modelo":"Scudo 1.9td",
+               "CV":98,
+               "AñoMatr":1999,
+               "Kilómetros":195000,
+               "Plazas":4,
+               "Altura":1810,
+               "Longitud":4440,
+               "Anchura":1940,
+               "TipoCombustible":"Diesel",
+               "Transmisión":"Automatico",
+               "Dueño":1
+            }
+         
+      }
+	]
+}

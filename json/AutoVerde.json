@@ -1,0 +1,1166 @@
+{
+  "AutoVerde":[
+      {
+         "name":"Moma Bikes City Classic 26''- Bicicleta",
+         "description":"Preciosa bicicleta de la marca MOMA. Ideal tanto para la ciudad como para la montaña. Súper cómoda y ligera para fácil transporte.",
+         "detalle":"Compra recomendada",
+         "tipo":"bicicleta",
+         "identificador":1,
+         "cantidad":6,
+         "icones":[
+            "img/bici_icono.png"
+         ],
+         "images":[
+           "https://cronicaglobal.elespanol.com/uploads/s1/23/08/86/5/bicicleta.jpeg",
+           "https://c4.wallpaperflare.com/wallpaper/339/595/682/nature-bicycle-mountain-bikes-wallpaper-preview.jpg",
+		   "https://images.unsplash.com/photo-1530173235220-f6825c107a77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+         ],
+         "videos":[
+         ],
+         "audios":[
+         ],
+         "puntuacion":5,
+         "visualizaciones":84,
+         "likes":32,
+         "startDate":"2020-03-02",
+         "startTime":"12:00",
+         "endDate":"2020-03-29",
+         "endTime":"24:00",
+         "precio_nuevo":200,
+         "precio_venta":120,
+         "precio_subasta":110,
+         "incremento_subasta":15,
+         "indicador_precio":3,
+         "venta":true,
+         "vendido":false,
+         "subasta":true,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":null,
+         "geo1":{
+            "address":"Carrer de Francesc Vidal I Sureda, 25",
+            "lat":39.5727196,
+            "long":2.6257796,
+            "city":"Palma de Mallorca",
+            "country":"España",
+            "zip":"07015"
+         },
+         "geo2":{
+         },
+         "tags-propios":[
+            "bicicleta"
+         ],
+         "data-propios":[
+            {
+               "marca":"MOMA",
+               "estat":"casi nou",
+               "anydecompra":"2019",
+               "certificació":null,
+               "talla":null,
+               "material":"aluminio",
+               "color":"blanco",
+               "sexe":"mujer",
+			   "modelo":"City Classic 26''", 
+			   "tamaño":"160x80cm",
+			   "plazas":1,
+			   "motor": false,
+			   "tiempoCarga":null,
+			   "velocidadMaxima":null,
+			   "pesoMaximo":"200kg"
+            }
+         ]
+      },
+	  {
+         "name":"M MEGAWHEELS Patinete electrico Adulto",
+         "description":"Mi patinete electrico la capacidad de la batería LG 18650 es 5.8Ah, tiene una pantalla para mostrarle el estado de la batería. Se proporciona una gran autonomía de 18-22 km, 2-3 horas de carga.",
+         "detalle":"Lo vendo porque mi mujer ya no me quiere.",
+         "tipo":"patinete eléctrico",
+         "identificador":2,
+         "cantidad":1,
+         "icones":[
+            "img/patinete_icono.png"
+         ],
+         "images":[
+           "https://www.moovers.mx/wp-content/uploads/2014/07/7-1.jpg",
+           "https://images-na.ssl-images-amazon.com/images/I/618YtF%2B9qrL._AC_SL1001_.jpg"
+         ],
+         "videos":[
+            {
+               "tipus":"youtube",
+               "url":"https://www.youtube.com/embed/Tx9GEQv6VKQ"
+            }
+         ],
+         "audios":[
+         ],
+         "puntuacion":0,
+         "visualizaciones":8,
+         "likes":3,
+         "startDate":"2020-03-22",
+         "startTime":"12:00",
+         "endDate":"2020-03-29",
+         "endTime":"24:00",
+         "precio_nuevo":310,
+         "precio_venta":220,
+         "precio_subasta":200,
+         "incremento_subasta":10,
+         "indicador_precio":3,
+         "venta":false,
+         "vendido":false,
+         "subasta":true,
+         "subastado":false,
+         "intercambio":true,
+         "cambiado":false,
+         "comment_intercambio":"Por una bicicleta tándem",
+         "geo1":{
+            "address":"Carrer de Francesc Vidal I Sureda, 24",
+            "lat":39.5727196,
+            "long":2.6257796,
+            "city":"Palma de Mallorca",
+            "country":"España",
+            "zip":"07015"
+         },
+         "geo2":{
+         },
+         "tags-propios":[
+            "patinete eléctrico"
+         ],
+         "data-propios":[
+            {
+               "marca":"M MEGAWHEELS",
+               "estat":"usat",
+               "anydecompra":"2018",
+               "certificació":null,
+               "talla":null,
+               "material":"aluminio",
+               "color":"negro",
+               "sexe":null,
+			   "modelo":"MEGAWHEELS adulto", 
+			   "tamaño":"150cm",
+			   "plazas":1,
+			   "motor": true,
+			   "tiempoCarga":"5h",
+			   "velocidadMaxima":"15km/h",
+			   "pesoMaximo":"120kg"
+            }
+         ]
+      },
+	  {
+         "name":"Fuzion X-3 Patinete Pro Scooters Freestyle",
+         "description":"Tabla de Aluminio de Mayor Calidad, manillar de Acero Muy Extensible,Ruedas Fuzion de 100mm con ABS Metalizado con PU Fundido. ",
+         "detalle":"Diseñado para los riders novatos para ayudarlos a mejorar sus skills mientras avanzan hacia el nivel superior.",
+         "tipo":"patinete",
+         "identificador":3,
+         "cantidad":30,
+         "icones":[
+            "img/patinete_icono.png"
+         ],
+         "images":[
+           "https://images-na.ssl-images-amazon.com/images/I/71NqqcghchL._AC_SL1500_.jpg",
+           "https://images-na.ssl-images-amazon.com/images/I/91HbjARlg8L._AC_SL1500_.jpg"
+         ],
+         "videos":[
+            {
+               "tipus":"youtube",
+               "url":"https://www.youtube.com/embed/KZU3oTwUFSU"
+            }
+         ],
+         "audios":[
+            
+         ],
+         "puntuacion":3,
+         "visualizaciones":230,
+         "likes":1,
+         "startDate":"2020-03-23",
+         "startTime":"12:00",
+         "endDate":"2020-03-31",
+         "endTime":"24:00",
+         "precio_nuevo":70,
+         "precio_venta":40,
+         "precio_subasta":35,
+         "incremento_subasta":8,
+         "indicador_precio":2,
+         "venta":true,
+         "vendido":false,
+         "subasta":false,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":"",
+         "geo1":{
+            "address":"Carrer de Francesc Vidal I Sureda, 23",
+            "lat":39.5727196,
+            "long":2.6257796,
+            "city":"Palma de Mallorca",
+            "country":"España",
+            "zip":"07015"
+         },
+         "geo2":{
+         },
+         "tags-propios":[
+            "patinete"
+         ],
+         "data-propios":[
+            {
+               "marca":"Fuxion",
+               "estat":"Nou",
+               "anydecompra":"2019",
+               "certificació":null,
+               "talla":13,
+               "material":"acero, nailon, aluminio, goma",
+               "color":"teal",
+               "sexe":null,
+			   "modelo":"X-3", 
+			   "tamaño": "1,10m",
+			   "plazas":1,
+			   "motor": false,
+			   "tiempoCarga":null,
+			   "velocidadMaxima":"15km/h",
+			   "pesoMaximo":"60kg"
+            }
+         ]
+      },
+	  {
+         "name":"Ninebot Elite + Negro Patinete eléctrico Segway",
+         "description":"Ninebot es un nuevo robot de transporte personal para el trabajo, el entretenimiento y la vida cotidiana. Ninebot es operado por una serie de giroscopios y sensores microelectrónicos complejos que proporcionan datos a sus acelerómetros y microprocesador de alta velocidad.",
+         "detalle":"",
+         "tipo":"segway",
+         "identificador":4,
+         "cantidad":1,
+         "icones":[
+            "img/segway_icono.png"
+         ],
+         "images":[
+           "https://images-na.ssl-images-amazon.com/images/I/71PW4CJbtLL._AC_SL1500_.jpg",
+           "https://images-na.ssl-images-amazon.com/images/I/71cDx4WleHL._AC_SL1500_.jpg",
+		   "https://images-na.ssl-images-amazon.com/images/I/71oO2M1ncWL._AC_SL1500_.jpg"
+         ],
+         "videos":[
+         ],
+         "audios":[
+         ],
+         "puntuacion":3,
+         "visualizaciones":65,
+         "likes":23,
+         "startDate":"2020-03-15",
+         "startTime":"12:30",
+         "endDate":"2020-03-29",
+         "endTime":"24:00",
+         "precio_nuevo":3000,
+         "precio_venta":2700,
+         "precio_subasta":2600,
+         "incremento_subasta":50,
+         "indicador_precio":4,
+         "venta":false,
+         "vendido":false,
+         "subasta":true,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":null,
+         "geo1":{
+            "address":"Carrer de Francesc Vidal I Sureda, 26",
+            "lat":39.5727196,
+            "long":2.6257796,
+            "city":"Palma de Mallorca",
+            "country":"España",
+            "zip":"07015"
+         },
+         "geo2":{
+         },
+         "tags-propios":[
+            "segway"
+         ],
+         "data-propios":[
+            {
+               "marca":"Ninebot",
+               "estat":"nou",
+               "anydecompra":"2020",
+               "certificació":null,
+               "talla":null,
+               "material":"policarbonato, aleación magnesio",
+               "color":"negro",
+               "sexe":"unisex",
+			   "modelo":"Elite", 
+			   "tamaño":"123x59x39cm",
+			   "plazas":1,
+			   "motor": true,
+			   "tiempoCarga":"3-4h",
+			   "velocidadMaxima":"22Km/h",
+			   "pesoMaximo":"400Kg"
+            }
+         ]
+      },
+	  {
+         "name":"OUTSTORM 4000",
+         "description":"W/84 V Potente autoequilibrio eléctrico todoterreno para viajes por ciudad y paseo marítimo, turismo o uso en campo de golf, vehículo portátil plegable de 34 millas de rango/13 MPH de velocidad/batería de 8 Ah / ruedas de 19 pulgadas",
+         "detalle":"Segway todoterreno eléctrico",
+         "tipo":"segway",
+         "identificador":5,
+         "cantidad":1,
+         "icones":null,
+         "images":[
+            "https://images-na.ssl-images-amazon.com/images/I/41c%2BqtnRw%2BL._AC_.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81z8Q-XkZlL._AC_SL1500_.jpg",
+			"https://images-na.ssl-images-amazon.com/images/I/7171bwKz1jL._AC_SL1500_.jpg"
+         ],
+         "videos":null,
+    
+         "audios":null,
+         "puntuacion":4,
+         "visualizaciones":503,
+         "likes":43,
+         "startDate":null,
+         "startTime":null,
+         "endDate":null,
+         "endTime":null,
+         "precio_nuevo":2000.00,
+         "precio_venta":1499.99,
+         "precio_subasta":null,
+         "incremento_subasta":null,
+         "indicador_precio":null,
+         "venta":true,
+         "vendido":false,
+         "subasta":false,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":null,
+         "geo1":{
+            "address":"Carrer de Francesc Vidal I Sureda, 23",
+            "lat":39.5727196,
+            "long":2.6257796,
+            "city":"Palma de Mallorca",
+            "country":"España",
+            "zip":"07015"
+         },
+         "tags-propios":[
+            "segway",
+            "electrico",
+			"todoterreno",
+			"oferta",
+			"segunda mano"
+         ],
+         "data-propios":[
+            {
+               "marca": "OUTSTORM ",
+               "estat":"semi nou",
+               "anydecompra":"2019",
+               "certificació":null,
+               "talla":"adulto",
+               "material":"policarbonato, aleación magnesio, acero, silicona",
+               "color":"negro",
+               "sexe":"unisex",
+			   "modelo":"4000", 
+			   "tamaño":null,
+			   "plazas":1,
+			   "motor": true,
+			   "tiempoCarga":"4-5h",
+			   "velocidadMaxima":"13 mph",
+			   "rango": "34 millas",
+			   "pesoMaximo":"330 libras"
+			   
+		   }
+		]
+	 },
+	 {
+         "name":"Off-Road",
+         "description":"El Transporter personal Off-Road de la marca Eco-Glide con neumáticos todo terreno de 19 pulgadas está diseñado para manejar la mayoría de superficies y te ayudará a moverte más rápido y más fácil dentro y fuera de la carretera. A diferencia de otras marcas, estas unidades se autoequilibran mientras están encendidas, incluso sin un piloto y están equipadas con faros LED y luces traseras para mayor seguridad en el dispositivo y fuera de él. Todos los scooters contienen una batería de litio certificada de 8.8Ah para garantizar la tranquilidad. Tu Transporter Personal viene con bolsa frontal para manillar con una carcasa de plástico moldeada diseñada para llevar esos objetos personales a lo largo del paseo y un soporte para descansar tu unidad mientras estás fuera o cargando. El scooter incluye un modo principiante, pero superior a velocidades más altas y tiene casi el doble de duración de la batería que otras marcas para un factor de diversión añadido para cualquier ciclista. Diseñado para todos los niveles de experiencia a cualquier edad. Especificaciones: velocidad superior: 13 MPH. Batería: 8,8 Ah rango de la batería: 24 a 27 millas. Motor: 1000 W. Capacidad de peso (lb): 330 libras pendientes de escalada (grados): 35 grados Peso (libras): 105 libras, tiempo de carga (h): 4 a 5 horas. [El paquete incluye: 1 transportador personal, 1 cargador, 1 manual de instrucciones (idioma español no garantizado).",
+         "detalle":"Smart Auto Balance Scooter Personal Transporter 19 pulgadas All Terrain Neumáticos",
+         "tipo":"segway",
+         "identificador":6,
+         "cantidad":1,
+         "icones":null,
+         "images":[
+            "https://images-na.ssl-images-amazon.com/images/I/514j8p-jCbL._AC_SL1406_.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51pEHgcbBXL._AC_SL1000_.jpg",
+			"https://images-na.ssl-images-amazon.com/images/I/31gEry59IbL._AC_.jpg"
+         ],
+         "videos":null,
+    
+         "audios":null,
+         "puntuacion":2,
+         "visualizaciones":203,
+         "likes":60,
+         "startDate":"2020-04-15",
+         "startTime":"12:00",
+         "endDate":"2020-06-20",
+         "endTime":"12:00",
+         "precio_nuevo":2200.00,
+         "precio_venta":null,
+         "precio_subasta":1400.00,
+         "incremento_subasta":25.00,
+         "indicador_precio":4,
+         "venta":false,
+         "vendido":false,
+         "subasta":true,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":null,
+         "geo1":{
+            "address":"Carrer dels Horts, 16",
+            "lat":39.573772,
+            "long": 2.650123,
+            "city":"Palma de Mallorca",
+            "country":"España",
+            "zip":"07003"
+         },
+         "tags-propios":[
+            "segway",
+            "electrico",
+			"todoterreno",
+			"oferta",
+			"segunda mano"
+         ],
+         "data-propios":[
+            {
+               "marca": "Eco-Glide ",
+			   "modelo":"off-road",
+               "estat":"usat",
+               "anydecompra":"2018",
+               "talla":"adulto",
+               "material":"policarbonato, aleación magnesio, acero, silicona",
+               "color":"plateado",
+               "sexe":"unisex", 
+			   "peso":"105 libras",
+			   "plazas":1,
+			   "motor": true,
+			   "tiempoCarga":"4-5h",
+			   "velocidadMaxima":"13 mph",
+			   "rango": "27 millas",
+			   "pesoMaximo":"330 libras"
+			   
+		   }
+		]
+	 },
+	 {
+         "name":"Razor RX200 patín eléctrico",
+         "description":"Patinete eléctrico de Razor modelo RX200 para niño o niña. Patinete diablo, capaz de alcanzar velocidades vertiginosas. Increïble potencia y capacidad de todoterreno. Superior al modelo RX100, increíble sensación de velocidad y confort máximo para los chicos más atrevidos y las chicas más guays.",
+         "detalle":"Patinete eléctrico tamaño infantil.",
+         "tipo":"patinete eléctrico",
+         "identificador":7,
+         "cantidad":1,
+         "icones":null,
+         "images":[
+            "https://images-na.ssl-images-amazon.com/images/I/81B00aQ-ZfL._AC_SL1500_.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81Rxrh%2BhHJL._AC_SL1500_.jpg",
+			"https://images-na.ssl-images-amazon.com/images/I/81zE3Q6gVXL._AC_SL1500_.jpg"
+         ],
+         "videos":[
+			{"tipus":"amazon","url":"https://www.amazon.com/195a1759-5859-4ec5-97cd-d64f2ab391ec"}
+		 ],
+    
+         "audios":null,
+         "puntuacion":5,
+         "visualizaciones":464,
+         "likes":1,
+         "startDate":"2020-05-15",
+         "startTime":"12:00",
+         "endDate":"2020-06-20",
+         "endTime":"12:00",
+         "precio_nuevo":260.00,
+         "precio_venta":181.73,
+         "precio_subasta":150.00,
+         "incremento_subasta":10.00,
+         "indicador_precio":3,
+         "venta":true,
+         "vendido":false,
+         "subasta":true,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":null,
+         "geo1":{
+            "address":"Camí de Son Gotleu, 7",
+            "lat":39.582446, 
+            "long": 2.669537,
+            "city":"Palma de Mallorca",
+            "country":"España",
+            "zip":"07008"
+         },
+         "tags-propios":[
+            "patinete",
+            "patinete eléctrico",
+			"electrico",
+			"todoterreno",
+			"gran calidad",
+			"segunda mano"
+         ],
+         "data-propios":[
+            {
+               "marca": "Razor",
+			   "modelo":"RX200",
+               "estat":"usat",
+               "anydecompra":"2017",
+               "talla":"infantil",
+               "material":"policarbonato, aleación magnesio, acero",
+               "color":"verde oscuro",
+               "sexe":"unisex", 
+			   "peso":"38 libras",
+			   "dimensiones": "96 x 59 x 96 cm",
+			   "plazas":1,
+			   "motor": true,
+			   "tiempoCarga":"4-5h",
+			   "duracion bateria": "40min",
+			   "velocidadMaxima":"19 kmh",
+			   "pesoMaximo":"154 libras"
+			   
+		   }
+		]
+	 },
+	 {
+         "name":"Osprey Dirt Scooter",
+         "description":"El monopatín OSPREY permite alcanzar el siguiente nivel de trucos con el monopatín. Con la ´ólida construccion de acero el modelo Dirt es completamente diferente a sus predecesores, permitiendo trucos mucho más extremos y más atrevidos sin ser peligroso para su usuario.",
+         "detalle":"Patinete  tamaño infantil.",
+         "tipo":"patinete",
+         "identificador":8,
+         "cantidad":1,
+         "icones":null,
+         "images":[
+            "https://images-na.ssl-images-amazon.com/images/I/61RAvbxkOSL._AC_SL1500_.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81IUQ%2BV3IfL._AC_SL1500_.jpg",
+			"https://images-na.ssl-images-amazon.com/images/I/91e6ThyZYpL._AC_SL1500_.jpg",
+			"https://images-na.ssl-images-amazon.com/images/I/81wKKBo4GpL._AC_SL1500_.jpg"
+         ],
+         "videos":null,
+         "audios":null,
+         "puntuacion":4,
+         "visualizaciones":201,
+         "likes":3,
+         "startDate":"2020-04-15",
+         "startTime":"10:00",
+         "endDate":"2020-05-27",
+         "endTime":"12:00",
+         "precio_nuevo":155.00,
+         "precio_venta":89.99,
+         "precio_subasta":null,
+         "incremento_subasta":null,
+         "indicador_precio":2,
+         "venta":true,
+         "vendido":false,
+         "subasta":false,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":null,
+         "geo1":{
+            "address":"Plaça de Josep Maria Llompart, 1-5",
+            "lat":39.582360, 
+            "long": 2.674708,
+            "city":"Palma de Mallorca",
+            "country":"España",
+            "zip":"07008"
+         },
+         "tags-propios":[
+            "patinete",
+			"todoterreno",
+			"gran calidad",
+			"segunda mano",
+			"trucos",
+			"dirt"
+         ],
+         "data-propios":[
+            {
+               "marca": "Osprey",
+			   "modelo": "Dirt Scooter",
+               "estat":"muy poco usado",
+               "anydecompra":"2019",
+               "talla":"infantil",
+               "material":"policarbonato, acero",
+               "color":"azul clarito",
+               "sexe":"unisex", 
+			   "peso":"17.3 libras",
+			   "dimensiones":" 53 x 85 x 88 cm",
+			   "plazas":1,
+			   "motor": false,
+			   "velocidadMaxima":"19 kmh",
+			   "pesoMaximo":"100Kg"
+			   
+		   }
+		]
+	 },
+	 {
+         "name":"GOTRAX XR - Patinete eléctrico",
+         "description":"Scooter eléctrico de largo alcance – Alta capacidad 36 V/5. Batería de 2 Ah con un alcance máximo de viaje de hasta 12 millas en condiciones óptimas. Nuestro sistema de gestión de batería inteligente garantiza la seguridad de la batería y prolonga la vida de la batería.",
+         "detalle":"Patinete eléctrico",
+         "tipo":"patinete electrico",
+         "identificador":9,
+         "cantidad":1,
+         "icones":null,
+         "images":[
+            "https://images-na.ssl-images-amazon.com/images/I/61upFX53pPL._AC_SL1500_.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71PQDaGFlSL._AC_SL1500_.jpg",
+			"https://images-na.ssl-images-amazon.com/images/I/71wi2cY9VZL._AC_SL1500_.jpg"
+         ],
+         "videos":[{"tipus":"amazon","url":"https://www.amazon.com/b219b659-dd69-403f-b991-b891ea8605c5"}],
+         "audios":null,
+         "puntuacion":4,
+         "visualizaciones":1054,
+         "likes":354,
+         "startDate":"2020-04-15",
+         "startTime":"10:00",
+         "endDate":"2020-07-12",
+         "endTime":"12:00",
+         "precio_nuevo":260.00,
+         "precio_venta":null,
+         "precio_subasta":null,
+         "incremento_subasta":null,
+         "indicador_precio":null,
+         "venta":false,
+         "vendido":false,
+         "subasta":false,
+         "subastado":false,
+         "intercambio":true,
+         "cambiado":false,
+         "comment_intercambio":"Ordenador portátil pada poder hacer Gaming",
+         "geo1":{
+            "address":"Carrer de Margarida Xirgu, 15",
+            "lat":39.583169, 
+            "long":2.634533,
+            "city":"Palma de Mallorca",
+            "country":"España",
+            "zip":null
+         },
+         "tags-propios":[
+            "scooter",
+			"scooter electrico",
+			"electrico",
+			"segunda mano",
+			"adulto",
+			"para ciudad"
+         ],
+         "data-propios":[
+            {
+               "marca": "GOTRAX",
+			   "modelo": "XR",
+               "estat":"usado, pero está perfecto",
+               "anydecompra":"2018",
+               "talla":"adulto",
+               "material":"policarbonato, acero, ",
+               "color":"gris y negro",
+               "sexe":"unisex", 
+			   "plazas":1,
+			   "motor": true,
+			   "tiempoCarga":"4-5h",
+			   "duracion bateria": "12 millas",
+			   "velocidadMaxima":"15 MPH",
+			   "pesoMaximo":"220 libras"
+			   
+		   }
+		]
+	 },
+	 {
+		 "name":"BICICLETA 14 PULGADAS 3-4,5 AÑOS ",
+		 "description":"Bicicleta con cuadro rebajado y ruedines para que el niño aprenda a circular a su ritmo. Bicicleta provista de un cárter de cadena y de guardabarros para evitar las rozaduras y la suciedad.",
+		 "detalle":"Bici para niños",
+		 "tipo":"bicicleta",
+		 "identificador":10,
+		 "cantidad":3,
+		 "icones":[
+			"img/patinete_icono.png"
+		 ],
+		 "images":[
+		   "https://contents.mediadecathlon.com/p1006608/k$44be64a88cb423f9e78f44a70c694c45/sq/BICICLETA+14+PULGADAS+3+4+5+A+OS+500+UNICORNIO.webp?f=1000x1000",
+		   "https://contents.mediadecathlon.com/p1295442/k$b084921ba6ce7c11ba32b2fbb518871c/sq/BICICLETA+14+PULGADAS+3+4+5+A+OS+500+UNICORNIO.webp?f=1000x1000",
+		   "https://contents.mediadecathlon.com/p1295420/k$23e37494ede87d2921bb83478c449927/sq/BICICLETA+14+PULGADAS+3+4+5+A+OS+500+UNICORNIO.webp?f=1000x1000"
+		 ],
+		 "videos":[
+			
+		 ],
+		 "audios":[
+			
+		 ],
+		 "puntuacion":4,
+		 "visualizaciones":230,
+		 "likes":14,
+		 "startDate":"2020-05-23",
+		 "startTime":"12:00",
+		 "endDate":"2020-05-31",
+		 "endTime":"24:00",
+		 "precio_nuevo":70,
+		 "precio_venta":89,
+		 "precio_subasta":35,
+		 "incremento_subasta":8,
+		 "indicador_precio":2,
+		 "venta":true,
+		 "vendido":false,
+		 "subasta":false,
+		 "subastado":false,
+		 "intercambio":false,
+		 "cambiado":false,
+		 "comment_intercambio":"",
+		 "geo1":{
+			"address":"Carrer Femenies, 19",
+			"lat":39.576770,
+			"long":2.639582,
+			"city":"Palma de Mallorca",
+			"country":"España",
+			"zip":"07013"
+		 },
+		 "geo2":{
+		 },
+		 "tags-propios":[
+			"bicicleta",
+			"infantil"
+		 ],
+		 "data-propios":[
+			{
+			   "marca":"BTWIN",
+			   "estat":"Nou",
+			   "anydecompra":"2019",
+			   "certificació":null,
+			   "talla":14,
+			   "material":"acero, plastico, aluminio, goma",
+			   "color":"rosa",
+			   "sexe":null,
+			   "modelo":"500", 
+			   "tamaño": "14 pulgadas",
+			   "plazas":1,
+			   "motor": false,
+			   "tiempoCarga":null,
+			   "velocidadMaxima":"15km/h",
+			   "pesoMaximo":"50kg"
+			}
+		 ]
+		},
+		{
+         "name":"Bicicleta eléctrica plegable TILT 500",
+         "description":"Bicicleta eléctrica plegable para llevar a cualquier lugar. Se guarda en el maletero del coche y te acompaña en cualquier salida cotidiana o en fin de semana.",
+         "detalle":"Bicicleta eléctrica.",
+         "tipo":"Bicicleta eléctrica",
+         "identificador":11,
+         "cantidad":1,
+         "icones":[
+            
+         ],
+         "images":[
+           "https://contents.mediadecathlon.com/p1824769/k$22260b537884fb59d660d59af5f9279d/sq/BICICLETA+EL+CTRICA+PLEGABLE+TILT+500+20+PULGADAS+GRIS+OSCURO.webp?f=1000x1000",
+		   "https://contents.mediadecathlon.com/p1420398/k$487f6a461721b5c2022363e6e55c64df/sq/BICICLETA+EL+CTRICA+PLEGABLE+TILT+500+20+PULGADAS+GRIS+OSCURO.webp?f=1000x1000",
+		   "https://contents.mediadecathlon.com/p1420858/k$e5d3d48d951008d9d23a728a8329ac28/sq/BICICLETA+EL+CTRICA+PLEGABLE+TILT+500+20+PULGADAS+GRIS+OSCURO.webp?f=1000x1000"
+         ],
+         "videos":[
+            
+         ],
+         "audios":[
+            
+         ],
+         "puntuacion":5,
+         "visualizaciones":1970,
+         "likes":57,
+         "startDate":"2020-03-23",
+         "startTime":"12:00",
+         "endDate":"2020-03-31",
+         "endTime":"24:00",
+         "precio_nuevo":500,
+         "precio_venta":699.99,
+         "precio_subasta":500,
+         "incremento_subasta":25,
+         "indicador_precio":4,
+         "venta":true,
+         "vendido":false,
+         "subasta":true,
+         "subastado":false,
+         "intercambio":true,
+         "cambiado":false,
+         "comment_intercambio":"Quiero un castillo hinchable",
+         "geo1":{
+            "address":"Carrer del Bisbe Campins, 2",
+            "lat":39.575711,
+            "long":2.646427,
+            "city":"Palma de Mallorca",
+            "country":"España",
+            "zip":"07012"
+         },
+         "geo2":{
+         },
+         "tags-propios":[
+            "bicicleta",
+			"bicicleta eléctrica"
+         ],
+         "data-propios":[
+            {
+               "marca":"BTWIN",
+               "estat":"Usat",
+               "anydecompra":"2018",
+               "certificació":null,
+               "talla":20,
+               "material":"acero, aluminio, goma",
+               "color":"gris oscuro",
+               "sexe":null,
+			   "modelo":"500 E", 
+			   "tamaño": "155 x 114 x 60 cm",
+			   "plazas":1,
+			   "motor": true,
+			   "tiempoCarga":"4h",
+			   "velocidadMaxima":"50km/h",
+			   "pesoMaximo":"100kg"
+            }
+         ]
+      },
+	  {
+         "name":"Bicicleta BTT eléctrica E-ST 500 mujer azul 27,5",
+         "description":"Bicicleta eléctrica de montaña",
+         "detalle":"420 Wh. Motor rueda de 42 Nm con sensor de par. Ruedas de 27,5' y neumáticos de 2,4. Pasa las velocidades fácilmente: monoplato 1X9 veloc. Autonomía 110 km (ahorro/llano). Pantalla 3 modos +1 peatón.",
+         "tipo":"Bicicleta eléctrica",
+         "identificador":12,
+         "cantidad":5,
+         "icones":[
+            "img/patinete_icono.png"
+         ],
+         "images":[
+           "https://contents.mediadecathlon.com/p1576544/k$5f091393326aafb953c2ccc9e8ce6603/sq/BICICLETA+BTT+EL+CTRICA+E+ST+500+MUJER+AZUL+27+5.webp?f=1000x1000",
+           "https://contents.mediadecathlon.com/p1499661/k$07655382c646d8229027e9e9dcaecc4b/sq/BICICLETA+BTT+EL+CTRICA+E+ST+500+MUJER+AZUL+27+5.webp?f=1000x1000",
+		   "https://contents.mediadecathlon.com/p1607532/k$8c9717c0970a29e738ce5454cd5cad9f/sq/BICICLETA+BTT+EL+CTRICA+E+ST+500+MUJER+AZUL+27+5.webp?f=1000x1000",
+		   "https://contents.mediadecathlon.com/p1607543/k$636e857b957adfba6bfa6ab615d68643/sq/BICICLETA+BTT+EL+CTRICA+E+ST+500+MUJER+AZUL+27+5.webp?f=1000x1000"
+         ],
+         "videos":[
+            
+         ],
+         "audios":[
+            
+         ],
+         "puntuacion":5,
+         "visualizaciones":1023,
+         "likes":1,
+         "startDate":"2020-04-23",
+         "startTime":"10:00",
+         "endDate":"2020-04-30",
+         "endTime":"18:00",
+         "precio_nuevo":70,
+         "precio_venta":1200,
+         "precio_subasta":700,
+         "incremento_subasta":50,
+         "indicador_precio":5,
+         "venta":true,
+         "vendido":false,
+         "subasta":true,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":"",
+         "geo1":{
+            "address":"Carrer de Guillem Massot, 35",
+            "lat":39.580425,
+            "long":2.650010,
+            "city":"Palma de Mallorca",
+            "country":"España",
+            "zip":"07003"
+         },
+         "geo2":{
+         },
+         "tags-propios":[
+            "bicicleta",
+			"bicicleta eléctrica"
+         ],
+         "data-propios":[
+            {
+               "marca":"Rockrider",
+               "estat":"Nou",
+               "anydecompra":"2020",
+               "certificació":null,
+               "talla":27,
+               "material":"acero, aluminio, goma",
+               "color":"azul",
+               "sexe":"mujer",
+			   "modelo":"E-ST 500", 
+			   "tamaño": null,
+			   "plazas":1,
+			   "motor": true,
+			   "tiempoCarga":"3h",
+			   "velocidadMaxima":"60km/h",
+			   "pesoMaximo":"120kg"
+            }
+         ]
+      },
+	  {
+         "name":"BICICLETA GRAVEL TRIBAN RC520 ALU 105 11V",
+         "description":"Bicicleta de carretera de aluminio con freno de disco hidromecánico. Neumáticos de 36mm",
+         "detalle":"Diseñado para los ciclistas novatos para ayudarlos a mejorar sus habilidades mientras avanzan hacia el nivel superior.",
+         "tipo":"bicicleta",
+         "identificador":13,
+         "cantidad":27,
+         "icones":[
+            
+         ],
+         "images":[
+           "https://contents.mediadecathlon.com/p1614792/k$f33e6326a8e619c23de2548b6da706dd/sq/PRODUCTO+REACONDICIONADO+BICICLETA+GRAVEL+TRIBAN+RC520+ALU+105+11V.webp?f=1000x1000",
+           "https://contents.mediadecathlon.com/p1614800/k$a29113a211c7b442682a5589eb21f464/sq/PRODUCTO+REACONDICIONADO+BICICLETA+GRAVEL+TRIBAN+RC520+ALU+105+11V.webp?f=1000x1000"
+         ],
+         "videos":[
+            {
+               "tipus":"decathlon",
+               "url":"//players.brightcove.net/3415345270001/DOHosj6Wy_default/index.html?videoId=5987873269001"
+            }
+         ],
+         "audios":[
+            
+         ],
+         "puntuacion":3,
+         "visualizaciones":743,
+         "likes":156,
+         "startDate":"2020-03-23",
+         "startTime":"12:00",
+         "endDate":"2020-03-31",
+         "endTime":"24:00",
+         "precio_nuevo":null,
+         "precio_venta":850,
+         "precio_subasta":null,
+         "incremento_subasta":null,
+         "indicador_precio":4,
+         "venta":true,
+         "vendido":false,
+         "subasta":false,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":"",
+         "geo1":{
+            "address":"Carrer Beatriu de Pinós, 23",
+            "lat":39.572634,
+            "long":2.662003,
+            "city":"Palma de Mallorca",
+            "country":"España",
+            "zip":"07005"
+         },
+         "geo2":{
+         },
+         "tags-propios":[
+            "bicicleta",
+			   "bicicleta carreras"
+         ],
+         "data-propios":[
+            {
+               "marca":"Triban",
+               "estat":"Nou",
+               "anydecompra":"2029",
+               "certificació":null,
+               "talla":13,
+               "material":"aluminio",
+               "color":"gris",
+               "sexe":null,
+			   "modelo":"RC520 ALU 105 11V", 
+			   "tamaño": "150cm",
+			   "plazas":1,
+			   "motor": false,
+			   "tiempoCarga":null,
+			   "velocidadMaxima":"70km/h",
+			   "pesoMaximo":"120kg"
+            }
+         ]
+      },
+	  {
+         "name":"BICICLETA DE CARRETERA TRIBAN RC 500 ALUMINIO SORA 9V AZUL",
+         "description":"Pedalea más lejos y con más frecuencia con nuestra bici de carretera más cómoda jamás desarrollada.Descubre los frenos de disco, la geometría específica y el grupo Shimano Sora.",
+         "detalle":"Hacer bici es bueno.",
+         "tipo":"bicicleta",
+         "identificador":14,
+         "cantidad":30,
+         "icones":[
+            
+         ],
+         "images":[
+           "https://contents.mediadecathlon.com/p1537972/k$3c4f4ad34a6944193d848e499a1a464b/sq/BICICLETA+DE+CARRETERA+TRIBAN+RC+500+ALUMINIO+SORA+9V+AZUL+FRENO+DISCO.webp?f=1000x1000",
+           "https://contents.mediadecathlon.com/p1731658/k$08b1580a84ebc65b5e3297f06741d467/sq/BICICLETA+DE+CARRETERA+TRIBAN+RC+500+ALUMINIO+SORA+9V+AZUL+FRENO+DISCO.webp?f=1000x1000",
+		   "https://contents.mediadecathlon.com/p1543241/k$c538a62994fb6d5de6a33342f5aeed2b/sq/BICICLETA+DE+CARRETERA+TRIBAN+RC+500+ALUMINIO+SORA+9V+AZUL+FRENO+DISCO.webp?f=1000x1000"
+         ],
+         "videos":[
+            
+         ],
+         "audios":[
+            
+         ],
+         "puntuacion":4,
+         "visualizaciones":4865,
+         "likes":582,
+         "startDate":"2020-03-23",
+         "startTime":"12:00",
+         "endDate":"2020-03-31",
+         "endTime":"24:00",
+         "precio_nuevo":600,
+         "precio_venta":650,
+         "precio_subasta":600,
+         "incremento_subasta":10,
+         "indicador_precio":3,
+         "venta":true,
+         "vendido":false,
+         "subasta":true,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":"",
+         "geo1":{
+            "address":"Carrer Roger de Llúria, 6",
+            "lat":39.569656,
+            "long":2.630992,
+            "city":"Palma de Mallorca",
+            "country":"España",
+            "zip":"07014"
+         },
+         "geo2":{
+         },
+         "tags-propios":[
+            "bicicleta",
+			   "bicicleta de carretera"
+         ],
+         "data-propios":[
+            {
+               "marca":"Triban",
+               "estat":"Semi-nuevo",
+               "anydecompra":"2020",
+               "certificació":null,
+               "talla":20,
+               "material":"aluminio",
+               "color":"teal",
+               "sexe":null,
+			   "modelo":"RC 500", 
+			   "tamaño": "150cm",
+			   "plazas":1,
+			   "motor": false,
+			   "tiempoCarga":null,
+			   "velocidadMaxima":"75km/h",
+			   "pesoMaximo":"150kg"
+            }
+         ]
+      },
+	  {
+         "name":"Bicicleta de montaña ST 520 mujer azul marino 27,5’’",
+         "description":"BTT de 27,5', adaptada a la morfología femenina, ha sido concebida para tus primeras salidas en BTT con tiempo seco, de hasta 1 h 30 min.",
+         "detalle":"Diseñado para los riders novatos para ayudarlos a mejorar sus skills mientras avanzan hacia el nivel superior.",
+         "tipo":"bicicleta",
+         "identificador":15,
+         "cantidad":2,
+         "icones":[
+            "img/patinete_icono.png"
+         ],
+         "images":[
+           "https://contents.mediadecathlon.com/p1632410/k$4323259d2d6d44f62f6550d446daf687/sq/BICICLETA+DE+MONTA+A+ST+520+MUJER+AZUL+MARINO+27+5.webp?f=1000x1000",
+           "https://contents.mediadecathlon.com/p1638701/k$394835e3d8987cceeb1e3d3e88694f48/sq/BICICLETA+DE+MONTA+A+ST+520+MUJER+AZUL+MARINO+27+5.webp?f=1000x1000"
+         ],
+         "videos":[
+           
+         ],
+         "audios":[
+            
+         ],
+         "puntuacion":5,
+         "visualizaciones":1456,
+         "likes":753,
+         "startDate":"2020-04-15",
+         "startTime":"12:00",
+         "endDate":"2020-04-30",
+         "endTime":"24:00",
+         "precio_nuevo":300,
+         "precio_venta":300,
+         "precio_subasta":250,
+         "incremento_subasta":15,
+         "indicador_precio":2,
+         "venta":true,
+         "vendido":false,
+         "subasta":true,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":"",
+         "geo1":{
+            "address":"Carrer de Triana, 50",
+            "lat":39.575296,
+            "long":2.631206,
+            "city":"Palma de Mallorca",
+            "country":"España",
+            "zip":"07014"
+         },
+         "geo2":{
+         },
+         "tags-propios":[
+            "bicicleta",
+			"bicicleta de montaña"
+         ],
+         "data-propios":[
+            {
+               "marca":"Rockrider",
+               "estat":"Nou",
+               "anydecompra":"2019",
+               "certificació":null,
+               "talla":27,
+               "material":"aluminio",
+               "color":"azul",
+               "sexe":"mujer",
+			   "modelo":"ST 520", 
+			   "tamaño": "155cm",
+			   "plazas":1,
+			   "motor": false,
+			   "tiempoCarga":null,
+			   "velocidadMaxima":"60km/h",
+			   "pesoMaximo":"110kg"
+            }
+         ]
+      },
+	  {
+         "name":"Patinete para niños pequeños",
+         "description":"Patinete infantil ajustable: con cierre en todo el barrio en estilo con este 3 rueda patinete por den Haven. fabricado de metal y nylon duradero materiales compuestos nuestros patinete es la misma calidad de construcción como marcas cuesta mucho más.",
+         "detalle":"Patinete infantil",
+         "tipo":"patinete",
+         "identificador":16,
+         "cantidad":1,
+         "icones":null,
+         "images":[
+            "https://images-na.ssl-images-amazon.com/images/I/61QS4pVPBuL._AC_SL1500_.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61pdse35xxL._AC_SL1500_.jpg"
+         ],
+         "videos":null,
+         "audios":null,
+         "puntuacion":2,
+         "visualizaciones":13,
+         "likes":1,
+         "startDate":"2020-04-22",
+         "startTime":"15:00",
+         "endDate":"2020-07-12",
+         "endTime":"12:30",
+         "precio_nuevo":30.00,
+         "precio_venta":15.00,
+         "precio_subasta":null,
+         "incremento_subasta":null,
+         "indicador_precio":2,
+         "venta":true,
+         "vendido":false,
+         "subasta":false,
+         "subastado":false,
+         "intercambio":false,
+         "cambiado":false,
+         "comment_intercambio":null,
+         "geo1":{
+            "address":"Son Riera",
+            "lat":39.556983, 
+            "long":2.717284,
+            "city":"Palma de Mallorca",
+            "country":"España",
+            "zip":"07007"
+         },
+         "tags-propios":[
+            "scooter",
+			"patinete",
+			"segunda mano",
+			"infantil",
+			"niño pequeño"
+         ],
+         "data-propios":[
+            {
+               "marca": "den Haven",
+			   "modelo":null,
+               "estat":"nuevo",
+               "anydecompra":"2018",
+               "talla":"niño",
+               "material":"policarbonato, plástico ",
+               "color":"verde y negro",
+               "sexe":"unisex", 
+			   "plazas":1,
+			   "motor": false,
+			   "dimensiones":" 62.2 x 28.4 x 14.7 cm",
+			   "peso":"4.5 pounds",
+			   "pesoMaximo":"100kg"   
+		   }
+		]
+	 }
+   ]
+}
