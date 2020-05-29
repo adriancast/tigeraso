@@ -32,6 +32,9 @@
     <link href="./assets/css/blk-design-system.css?v=1.0.0" rel="stylesheet" />
     <!-- CSS Just for demo purpose, don't include it in your project -->
     <link href="./assets/demo/demo.css" rel="stylesheet" />
+    <!-- Mapbox -->
+    <script src="https://api.mapbox.com/mapbox-gl-js/v1.10.1/mapbox-gl.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v1.10.1/mapbox-gl.css" rel="stylesheet" />
 </head>
 
 <body class="product-page">
@@ -84,8 +87,8 @@
                               {% for img in selected_event.images %}
                               <img class="img rounded" src="{{ img }}">
                               {% endfor %}
-                              <img class="img rounded" src="./assets/img/map.png">
-                              <img class="img rounded" src="./assets/img/weather.png">
+                              <div class="mt-5 img rounded" style="height:300px; width: 100%;" id="map"></div>
+                              <!--<img class="mt-5 img rounded" src="./assets/img/weather.png">-->
   
                           </div>
                     </div>
@@ -137,6 +140,8 @@
                 </div>
                 <!-- Comments go here -->
                 <div class="mt-5" id="disqus_thread"></div>
+                <div class="mt-5" id="test"></div>
+                <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
             </div>
         </div>
 
@@ -273,7 +278,20 @@
     (d.head || d.body).appendChild(s);
     })();
     </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+    <script>
+      mapboxgl.accessToken = 'pk.eyJ1IjoiYmFsZWFyaWNmYXJtaG91c2VzIiwiYSI6ImNrYWppdDB0NzBheW4ycnBldDNwZG5nbnYifQ.WqiPm78kNPnnCRE7XNc_zw';
+      var map = new mapboxgl.Map({
+      container: 'map',
+      style: 'mapbox://styles/mapbox/streets-v11',
+      center: [{{ selected_event.geo1.long }}, {{ selected_event.geo1.lat }}],
+      zoom: 8
+      });
+      
+      var marker = new mapboxgl.Marker()
+      .setLngLat([{{ selected_event.geo1.long }}, {{ selected_event.geo1.lat }}])
+      .addTo(map);
+    </script>
     <!--   Core JS Files   -->
     <script src="./assets/js/core/jquery.min.js" type="text/javascript"></script>
     <script src="./assets/js/core/popper.min.js" type="text/javascript"></script>
