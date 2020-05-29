@@ -49,21 +49,21 @@ shuffle($top_vehicles);
 
 echo $twig->render('product.twig', compact('top_events', 'top_vehicles', 'selected_event'));
 
-$autoverdes_string = file_get_contents(__DIR__ . "/json/AutoVerde.json");
-$autoverdes = json_decode($autoverdes_string, true)["autoverdes"];
+//$autoverdes_string = file_get_contents(__DIR__ . "/json/AutoVerde.json");
+//$autoverdes = json_decode($autoverdes_string, true)["autoverdes"];
 
-$id_1 = $_GET['id'];
-$selected_autos = null;
-foreach ($autoverdes as $auto) {
-    if (strval($auto['identificador']) == $id_1) {
+//$id_1 = $_GET['id'];
+//$selected_autos = null;
+//foreach ($autoverdes as $auto) {
+//    if (strval($auto['identificador']) == $id_1) {
         
-       $selected_autos = $auto;
-        break;
+//       $selected_autos = $auto;
+//        break;
        
-   };
-}
+//   };
+//}
 
-shuffle($autoverdes);
-$top_autos = array_slice($autos, 0, 4);
+//shuffle($autoverdes);
+//$top_autos = array_slice($autos, 0, 4);
 
-echo $twig->render('product.twig', compact('top_autos', 'selected_auto'));
+//echo $twig->render('product.twig', compact('top_autos', 'selected_auto'));
