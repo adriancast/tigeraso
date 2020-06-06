@@ -16,6 +16,19 @@ foreach ($events as $event) {
 }
 $tags = array_unique($tags);
 
+$carrito = [];
+if(isset($_COOKIE['carrito'])){
+   $carrito = json_decode($_COOKIE['carrito'], true);
+}else {
+   setcookie('carrito', '[]', time() + (86400 * 30), "/");
+}
+$obj_carrito = [];
+foreach ($carrito as $elem_carrito) {
+   foreach ($events as $event) {
+      if (strval($event['identificador']) == strval($elem_carrito)) {
+         array_push($obj_carrito, $event);
+      }   
+   }
+}
 
-
-echo $twig->render('results.twig', compact('events', 'tags'));
+echo $twig->render('results.twig', compact('events', 'tags', 'obj_carrito'));
