@@ -78,20 +78,14 @@
                 </a>
                 <div class="dropdown-menu dropdown-with-icons show">
 
-                  <!-- Contentido Carrito -->
-                  <a href="https://demos.creative-tim.com/blk-design-system/docs/1.0/getting-started/overview.html" class="dropdown-item">
-                    <i class="tim-icons icon-paper"></i> Documentation
-                  </a>
-                  <a href="examples/register-page.html" class="dropdown-item">
-                    <i class="tim-icons icon-bullet-list-67"></i>Register Page
-                  </a>
-                  <a href="examples/landing-page.html" class="dropdown-item">
-                    <i class="tim-icons icon-image-02"></i>Landing Page
-                  </a>
-                  <a href="examples/profile-page.html" class="dropdown-item">
-                    <i class="tim-icons icon-single-02"></i>Profile Page
-                  </a>
+                  {% for obj in obj_carrito %}
 
+                  <!-- Contentido Carrito -->
+                  <div class="dropdown-item">
+                    <i class="tim-icons icon-trash-simple" onclick="removeCarrito({{obj.identificador}})"></i> {{obj.name}}
+                  </div>
+
+                  {% endfor %}
 
                 </div>
               </li>
