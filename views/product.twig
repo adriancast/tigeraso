@@ -79,6 +79,16 @@
                 <div class="dropdown-menu dropdown-with-icons show">
 
                   <!-- Contentido Carrito -->
+                  {% for obj in obj_carrito %}
+                              <div class="form-check">
+                                <label class="form-check-label">
+                                  <input class="form-check-input tag-input checkbox-filter-selector checkbox-filter-tags" value="" type="checkbox" >
+                                  <span class="form-check-sign">{{ obj.name }}</span>
+                                  {{ tag }}
+                                </label>
+                              </div>
+                  {% endfor %}
+
                   <a href="https://demos.creative-tim.com/blk-design-system/docs/1.0/getting-started/overview.html" class="dropdown-item">
                     <i class="tim-icons icon-paper"></i> Documentation
                   </a>
