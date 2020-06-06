@@ -1,14 +1,14 @@
 {% for event in filtered_events %}
-<div class="col-lg-3 col-md-6">
+<div class="col-md-4">
 <a href="product.php?id={{ event.identificador }}">
-                  <div class="card card-product">
+    <div class="card card-product">
     <div class="card-image">
     <img class="img rounded" src="{{ event.images[0] }}">
     </div>
     <div class="card-body">
         <h6 class="category text-warning">Evento</h6>
       <h4 class="card-title">
-        <a href="javascript:;" class="card-link text-white">{{ event.name }}</a>
+        <p class="card-link text-white">{{ event.name }}</p>
       </h4>
       <div class="card-description" align="justify" style="overflow: hidden; display: -webkit-box; -webkit-line-clamp: 10; -webkit-box-orient: vertical;">
         {{ event.description }}
@@ -18,7 +18,7 @@
           {% if event.precio_venta == 0 %}
             <h5 class="price"> Free </h5>
           {% else %}
-            <span class="price">{{ event.precio_venta }}€</span>
+            <h5 class="price">{{ event.precio_venta }}€</h5>
           {% endif %}
         </div>
           <button class="btn btn-simple btn-warning btn-icon btn-round pull-right" rel="tooltip" title="" data-placement="left" data-original-title="More Info">

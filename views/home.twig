@@ -50,13 +50,16 @@
             <div class="col-lg-4 col-md-6 mb-5">
               
               <div class="card card-profile profile-bg">
+
+                <a href="product.php?id={{ event.identificador }}">
                 <div class="card-header">
                   <div class="card-avatar" style="margin-top: -40px;">
-                    <a href="javascript:;">
                       <img class="img img-raised" src="{{ event.images[0] }}">
-                    </a>
                   </div>
                 </div>
+                
+
+
                 <div class="card-body">
                   <h3 class="card-title">{{ event.name }}</h3>
                   <h6 class="category text-primary">Evento</h6>
@@ -64,15 +67,20 @@
                     {{ event.description }}
                   </div>
                 </div>
+                
+
+
                 <div class="card-footer" style="text-align: center;">
                   <div class="follow" style="margin-bottom: -45px;">
                     <a class="btn btn-primary btn-lg" href="product.php?id={{ event.identificador }}">Más información </a>
                   </div>
                 </div>
+              </a>
+
               </div>
               <!-- end card -->
             </div>
-              {% endfor %}
+          {% endfor %}
 
           </div>
         </div>
