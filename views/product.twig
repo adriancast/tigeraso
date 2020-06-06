@@ -78,7 +78,10 @@
                 </a>
                 <div class="dropdown-menu dropdown-with-icons show">
 
+                  {% for obj in obj_carrito %}
+
                   <!-- Contentido Carrito -->
+<<<<<<< HEAD
                   {% for obj in obj_carrito %}
                               <div class="form-check">
                                 <label class="form-check-label">
@@ -101,7 +104,13 @@
                   <a href="examples/profile-page.html" class="dropdown-item">
                     <i class="tim-icons icon-single-02"></i>Profile Page
                   </a>
+=======
+                  <div class="dropdown-item">
+                    <i class="tim-icons icon-trash-simple" onclick="removeCarrito({{obj.identificador}})"></i> {{obj.name}}
+                  </div>
+>>>>>>> 1365b7a6417d0d77ab52d3e6c21ea1116865c781
 
+                  {% endfor %}
 
                 </div>
               </li>
