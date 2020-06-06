@@ -81,34 +81,9 @@
                   {% for obj in obj_carrito %}
 
                   <!-- Contentido Carrito -->
-<<<<<<< HEAD
-                  {% for obj in obj_carrito %}
-                              <div class="form-check">
-                                <label class="form-check-label">
-                                  <input class="form-check-input tag-input checkbox-filter-selector checkbox-filter-tags" value="" type="checkbox" >
-                                  <span class="form-check-sign">{{ obj.name }}</span>
-                                  {{ tag }}
-                                </label>
-                              </div>
-                  {% endfor %}
-
-                  <a href="https://demos.creative-tim.com/blk-design-system/docs/1.0/getting-started/overview.html" class="dropdown-item">
-                    <i class="tim-icons icon-paper"></i> Documentation
-                  </a>
-                  <a href="examples/register-page.html" class="dropdown-item">
-                    <i class="tim-icons icon-bullet-list-67"></i>Register Page
-                  </a>
-                  <a href="examples/landing-page.html" class="dropdown-item">
-                    <i class="tim-icons icon-image-02"></i>Landing Page
-                  </a>
-                  <a href="examples/profile-page.html" class="dropdown-item">
-                    <i class="tim-icons icon-single-02"></i>Profile Page
-                  </a>
-=======
                   <div class="dropdown-item">
                     <i class="tim-icons icon-trash-simple" onclick="removeCarrito({{obj.identificador}})"></i> {{obj.name}}
                   </div>
->>>>>>> 1365b7a6417d0d77ab52d3e6c21ea1116865c781
 
                   {% endfor %}
 
@@ -371,8 +346,10 @@
       }
 
       function addCarrito(identificador){
+        var cart = getCookie('carrito');
         var trolley = JSON.stringify([identificador]);
-        setCookie('carrito', trolley, 1);
+        cart.push(trolley);
+        setCookie('carrito', cart, 1);
         location.reload();
       }
 
