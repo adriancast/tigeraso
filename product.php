@@ -76,6 +76,8 @@ $weather = json_decode($weather, true);
 $carrito = [];
 if(isset($_COOKIE['carrito'])){
    $carrito = json_decode($_COOKIE['carrito'], true);
+}else {
+   setcookie('carrito', '[]', time() + (86400 * 30), "/");
 }
 $obj_carrito = [];
 foreach ($carrito as $elem_carrito) {
@@ -87,22 +89,3 @@ foreach ($carrito as $elem_carrito) {
 }
 
 echo $twig->render('product.twig', compact('top_events', 'top_vehicles', 'selected_event', 'weather', 'obj_carrito'));
-
-//$autoverdes_string = file_get_contents(__DIR__ . "/json/AutoVerde.json");
-//$autoverdes = json_decode($autoverdes_string, true)["autoverdes"];
-
-//$id_1 = $_GET['id'];
-//$selected_autos = null;
-//foreach ($autoverdes as $auto) {
-//    if (strval($auto['identificador']) == $id_1) {
-        
-//       $selected_autos = $auto;
-//        break;
-       
-//   };
-//}
-
-//shuffle($autoverdes);
-//$top_autos = array_slice($autos, 0, 4);
-
-//echo $twig->render('product.twig', compact('top_autos', 'selected_auto'));
