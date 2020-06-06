@@ -70,9 +70,23 @@ curl_setopt_array($curl, array(
 $weather = curl_exec($curl);
 
 curl_close($curl);
+$weather = json_decode($weather, true);
 //echo $weather;
 
-echo $twig->render('product.twig', compact('top_events', 'top_vehicles', 'selected_event'));
+$carrito = [];
+if(isset($_COOKIE['carrito'])){
+   $carrito = json_decode($_COOKIE['carrito'], true);
+}
+$obj_carrito = [];
+foreach ($carrito as $elem_carrito) {
+   foreach ($events as $event) {
+      if (strval($event['identificador']) == strval($elem_carrito)) {
+         array_push($obj_carrito, $event);
+      }   
+   }
+}
+
+echo $twig->render('product.twig', compact('top_events', 'top_vehicles', 'selected_event', 'weather', 'obj_carrito'));
 
 //$autoverdes_string = file_get_contents(__DIR__ . "/json/AutoVerde.json");
 //$autoverdes = json_decode($autoverdes_string, true)["autoverdes"];
